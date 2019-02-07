@@ -1,3 +1,6 @@
 [submodule "grayman/ndstool"]
 	path = grayman/ndstool
 	url = https://github.com/devkitPro/ndstool
+[submodule "grayman/armips"]
+	path = grayman/armips
+	url = https://github.com/Kingcom/armips.git
