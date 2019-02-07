@@ -1,0 +1,3 @@
+[submodule "grayman/ndstool"]
+	path = grayman/ndstool
+	url = https://github.com/devkitPro/ndstool
