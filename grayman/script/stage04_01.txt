@@ -1,0 +1,20 @@
+
+#SETDSTFILE("out/romfiles/data/script/stage04_01.bin")
+
+
+#SETSIZE(224, 3)
+
+#STARTMSG(0x3A, 36)
+
+//=======================================
+// auto-generated string 0
+//=======================================
+
+// ‘æ‚SÍwŠª‚«–ß‚è‚ÌŠXx[br]
+// `_“c•Ò`[wait]
+
+[wait]
+
+
+#ENDMSG()
+

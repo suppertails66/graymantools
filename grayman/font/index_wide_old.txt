@@ -1,0 +1,478 @@
+[Properties]
+numChars=127
+
+[char000]
+width=0
+
+[char001]
+width=0
+
+[char002]
+width=0
+
+[char003]
+width=0
+
+[char004]
+width=0
+
+[char005]
+width=0
+
+[char006]
+width=0
+
+[char007]
+width=0
+
+[char008]
+width=0
+
+[char009]
+width=0
+
+[char010]
+width=0
+
+[char011]
+width=0
+
+[char012]
+width=0
+
+[char013]
+width=0
+
+[char014]
+width=0
+
+[char015]
+width=0
+
+[char016]
+width=0
+
+[char017]
+width=0
+
+[char018]
+width=0
+
+[char019]
+width=0
+
+[char020]
+width=0
+
+[char021]
+width=0
+
+[char022]
+width=0
+
+[char023]
+width=0
+
+[char024]
+width=0
+
+[char025]
+width=0
+
+[char026]
+width=0
+
+[char027]
+width=0
+
+[char028]
+width=0
+
+[char029]
+width=6
+
+[char030]
+width=6
+
+[char031]
+width=8
+
+# space
+[char032]
+width=4
+
+# !
+[char033]
+width=3
+
+# "
+[char034]
+width=6
+
+# #
+[char035]
+width=6
+
+# $
+[char036]
+width=8
+
+# %
+[char037]
+width=9
+
+# &
+[char038]
+width=8
+
+# '
+[char039]
+width=3
+
+# (
+[char040]
+width=5
+
+# )
+[char041]
+width=5
+
+# *
+[char042]
+width=7
+
+# +
+[char043]
+width=7
+
+# ,
+[char044]
+width=3
+
+# -
+[char045]
+width=7
+
+# .
+[char046]
+width=3
+
+# /
+[char047]
+width=6
+
+# 0
+[char048]
+width=7
+
+# 1
+[char049]
+width=7
+
+# 2
+[char050]
+width=7
+
+# 3
+[char051]
+width=7
+
+# 4
+[char052]
+width=8
+
+# 5
+[char053]
+width=7
+
+# 6
+[char054]
+width=7
+
+# 7
+[char055]
+width=7
+
+# 8
+[char056]
+width=7
+
+# 9
+[char057]
+width=7
+
+# :
+[char058]
+width=3
+
+# ;
+[char059]
+width=3
+
+# <
+[char060]
+width=7
+
+# =
+[char061]
+width=7
+
+# >
+[char062]
+width=7
+
+# ?
+[char063]
+width=7
+
+# @
+[char064]
+width=8
+
+# A
+[char065]
+width=8
+
+# B
+[char066]
+width=7
+
+# C
+[char067]
+width=7
+
+# D
+[char068]
+width=7
+
+# E
+[char069]
+width=7
+
+# F
+[char070]
+width=7
+
+# G
+[char071]
+width=7
+
+# H
+[char072]
+width=7
+
+# I
+[char073]
+width=7
+
+# J
+[char074]
+width=7
+
+# K
+[char075]
+width=7
+
+# L
+[char076]
+width=7
+
+# M
+[char077]
+width=8
+
+# N
+[char078]
+width=7
+
+# O
+[char079]
+width=7
+
+# P
+[char080]
+width=7
+
+# Q
+[char081]
+width=7
+
+# R
+[char082]
+width=8
+
+# S
+[char083]
+width=7
+
+# T
+[char084]
+width=7
+
+# U
+[char085]
+width=7
+
+# V
+[char086]
+width=8
+
+# W
+[char087]
+width=9
+
+# X
+[char088]
+width=7
+
+# Y
+[char089]
+width=7
+
+# Z
+[char090]
+width=7
+
+# [
+[char091]
+width=7
+
+# \
+[char092]
+width=6
+
+# ]
+[char093]
+width=7
+
+# ^
+[char094]
+width=7
+
+# _
+[char095]
+width=7
+
+# `
+[char096]
+width=5
+
+# a
+[char097]
+width=7
+
+# b
+[char098]
+width=7
+
+# c
+[char099]
+width=7
+
+# d
+[char100]
+width=7
+
+# e
+[char101]
+width=7
+
+# f
+[char102]
+width=7
+
+# g
+[char103]
+width=7
+
+# h
+[char104]
+width=7
+
+# i
+[char105]
+width=3
+
+# j
+[char106]
+width=7
+
+# k
+[char107]
+width=6
+
+# l
+[char108]
+width=4
+
+# m
+[char109]
+width=8
+
+# n
+[char110]
+width=7
+
+# o
+[char111]
+width=7
+
+# p
+[char112]
+width=7
+
+# q
+[char113]
+width=7
+
+# r
+[char114]
+width=7
+
+# s
+[char115]
+width=7
+
+# t
+[char116]
+width=7
+
+# u
+[char117]
+width=7
+
+# v
+[char118]
+width=7
+
+# w
+[char119]
+width=9
+
+# x
+[char120]
+width=7
+
+# y
+[char121]
+width=7
+
+# z
+[char122]
+width=7
+
+# {
+[char123]
+width=6
+
+# |
+[char124]
+width=3
+
+# }
+[char125]
+width=6
+
+# ~
+[char126]
+width=8

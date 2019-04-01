@@ -1,0 +1,20 @@
+
+#SETDSTFILE("out/romfiles/data/script/stage03_01.bin")
+
+
+#SETSIZE(224, 3)
+
+#STARTMSG(0x3A, 40)
+
+//=======================================
+// auto-generated string 0
+//=======================================
+
+// 第３章『黒の教団壊滅！？』[br]
+// ～神田編～[wait]
+
+[wait]
+
+
+#ENDMSG()
+

@@ -1,0 +1,13 @@
+
+out/script/lastbuild: script/*.txt
+	rm -r -f "out/romfiles"
+	cp -r "out/romfiles_orig" "out/romfiles"
+	cat script/*.txt > "out/script/all.txt"
+	grayman_scriptbuild script/ table/grayman_en.tbl out/script/
+	touch out/script/lastbuild
+
+#out/script/all.txt: $(wildcard "script/$%.txt")
+#	mkdir -p out/script
+#	# cat together all string files into one big file
+#	cat script/*.txt > "out/script/all.txt"
+#	grayman_scriptbuild script/ table/grayman_en.tbl out/script/

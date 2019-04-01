@@ -1,0 +1,20 @@
+
+#SETDSTFILE("out/romfiles/data/script/stage04_04.bin")
+
+
+#SETSIZE(224, 3)
+
+#STARTMSG(0x3A, 42)
+
+//=======================================
+// auto-generated string 0
+//=======================================
+
+// 第４章『巻き戻りの街』[br]
+// ～クロウリー編～[wait]
+
+[wait]
+
+
+#ENDMSG()
+

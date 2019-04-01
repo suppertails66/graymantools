@@ -1,0 +1,10886 @@
+
+#SETDSTFILE("out/romfiles/data/script/stage01.bin")
+
+
+#SETSIZE(224, 3)
+
+#STARTMSG(0x9FA, 15)
+
+//=======================================
+// auto-generated string 0
+//=======================================
+
+// はぁ…はぁ…[wait]
+*Haa...haa...*
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA11, 23)
+
+//=======================================
+// auto-generated string 1
+//=======================================
+
+// や…やっと着いた……[wait]
+F...finally made it...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA34, 34)
+
+//=======================================
+// auto-generated string 2
+//=======================================
+
+// エクソシスト総本部……[br]
+// 黒の教団[wait]
+The Exorcist Headquarters... The Black Order.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA77, 29)
+
+//=======================================
+// auto-generated string 3
+//=======================================
+
+// #cyなんだい、この子は？#wh[wait]
+#cyWho's the kid?!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA9C, 37)
+
+//=======================================
+// auto-generated string 4
+//=======================================
+
+// #cyダメだよ、部外者入れちゃあ～#wh[wait]
+#cyWe don't admit outsiders~#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAD0, 23)
+
+//=======================================
+// auto-generated string 5
+//=======================================
+
+// #cyあ、コムイ室長#wh[wait]
+#cyAh, Chief Komui...#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAEF, 50)
+
+//=======================================
+// auto-generated string 6
+//=======================================
+
+// #cyそれが微妙に部外者っぽく[br]
+// ねーんスよね……#wh[wait]
+#cyJudging from the look of him, it doesn't seem like he accidentally wandered here...#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB29, 15)
+
+//=======================================
+// auto-generated string 7
+//=======================================
+
+// すいませーん[wait]
+Excuse me--!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB40, 60)
+
+//=======================================
+// auto-generated string 8
+//=======================================
+
+// クロス・マリアン元帥の紹介で[br]
+// 来た、アレン・ウォーカーです[wait]
+I was referred here by General Cross Marian. My name is Allen Walker.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB84, 46)
+
+//=======================================
+// auto-generated string 9
+//=======================================
+
+// 教団の幹部の方にお目にかかり[br]
+// たいのですが…[wait]
+I'd like to request an audience with the head of the Order...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBD1, 58)
+
+//=======================================
+// auto-generated string 10
+//=======================================
+
+// #cy紹介……って言ってますけど[br]
+// 室長、何か聞いてます？#wh[wait]
+#cyReferred here...[br]
+Hey Chief, do you know anything about this?#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC1A, 21)
+
+//=======================================
+// auto-generated string 11
+//=======================================
+
+// #cy知らない……#wh[wait]
+#cyI haven't heard anything...#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC3E, 31)
+
+//=======================================
+// auto-generated string 12
+//=======================================
+
+// #cy門番の身体検査、受けて#wh[wait]
+#cyPlease get a physical from the gate-[br]
+keeper behind you.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC6D, 9)
+
+//=======================================
+// auto-generated string 13
+//=======================================
+
+// え！？[wait]
+Huh!?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7E, 41)
+
+//=======================================
+// auto-generated string 14
+//=======================================
+
+// レントゲン検査。[br]
+// アクマか人間か[br]
+// 判別！[wait]
+X-ray exam! Decipher if he's an Akuma or Human!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD7, 5)
+
+//=======================================
+// auto-generated string 15
+//=======================================
+
+// …[wait]
+...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCE4, 10)
+
+//=======================================
+// auto-generated string 16
+//=======================================
+
+// …[br]
+// ……[wait]
+...[br]
+......
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCF6, 17)
+
+//=======================================
+// auto-generated string 17
+//=======================================
+
+// …[br]
+// ……[br]
+// ………[wait]
+...[br]
+......[br]
+.........
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD2D, 29)
+
+//=======================================
+// auto-generated string 18
+//=======================================
+
+// こいつ、アウトォォォオオ！[wait]
+He's OUUTTTT!!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD52, 36)
+
+//=======================================
+// auto-generated string 19
+//=======================================
+
+// 額のペンタクルに呪われて[br]
+// やがる！[wait]
+He's cursed by the pentacle on his forehead!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD84, 25)
+
+//=======================================
+// auto-generated string 20
+//=======================================
+
+// ペンタクルはアクマの印[wait]
+The pentacle is a mark of an Akuma!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDA5, 19)
+
+//=======================================
+// auto-generated string 21
+//=======================================
+
+// こいつ奴等の……[wait]
+He's...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDC0, 34)
+
+//=======================================
+// auto-generated string 22
+//=======================================
+
+// 千年伯爵の仲間（カモ）[br]
+// だー！！[wait]
+He's one of the Millennium Earl's men!!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDEA, 48)
+
+//=======================================
+// auto-generated string 23
+//=======================================
+
+// ちょっ、ちょっと待って！[br]
+// 僕はエクソシストです[wait]
+Wa-wait a minute! I'm an Exorcist!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE22, 56)
+
+//=======================================
+// auto-generated string 24
+//=======================================
+
+// 確かにチョット呪われてますけ[br]
+// ど、立派な人間ですよ！！[wait]
+I may be a little cursed, but I'm 100% human!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE6E, 17)
+
+//=======================================
+// auto-generated string 25
+//=======================================
+
+// ギャァアアアア[wait]
+GYAAAAA!!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE93, 17)
+
+//=======================================
+// auto-generated string 26
+//=======================================
+
+// 触んなボケェ！[wait]
+Don't touch me!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEAC, 48)
+
+//=======================================
+// auto-generated string 27
+//=======================================
+
+// 待ってください！僕はホントに[br]
+// 敵じゃないです！[wait]
+Please wait! I swear I'm not your enemy!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEE4, 46)
+
+//=======================================
+// auto-generated string 28
+//=======================================
+
+// クロス師匠から紹介状が送られ[br]
+// てるはずです！[wait]
+My master, General Cross, should have sent a letter of recommendation!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF1A, 23)
+
+//=======================================
+// auto-generated string 29
+//=======================================
+
+// …コムイって人宛に…[wait]
+...It was addressed to someone named Komui...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF40, 27)
+
+//=======================================
+// auto-generated string 30
+//=======================================
+
+// #cy……リーバー班長！#wh[wait]
+#cy...Reever!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF63, 27)
+
+//=======================================
+// auto-generated string 31
+//=======================================
+
+// #cyボクの机、調べて！#wh[wait]
+#cyCheck my desk!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF8D, 17)
+
+//=======================================
+// auto-generated string 32
+//=======================================
+
+// #cy…………#wh[wait]
+#cy............#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFAE, 11)
+
+//=======================================
+// auto-generated string 33
+//=======================================
+
+// #cy…#wh[wait]
+#cy...#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFC1, 13)
+
+//=======================================
+// auto-generated string 34
+//=======================================
+
+// #cy……#wh[wait]
+#cy......#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFD6, 15)
+
+//=======================================
+// auto-generated string 35
+//=======================================
+
+// #cy………#wh[wait]
+#cy.........#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFED, 17)
+
+//=======================================
+// auto-generated string 36
+//=======================================
+
+// #cy…………#wh[wait]
+#cy............#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x100D, 46)
+
+//=======================================
+// auto-generated string 37
+//=======================================
+
+// #cyあった！[br]
+// クロス元帥からの紹介状です！#wh[wait]
+#cyGot it! A referral from General Cross!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x104A, 15)
+
+//=======================================
+// auto-generated string 38
+//=======================================
+
+// #cy読んで#wh[wait]
+#cyRead it!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1068, 63)
+
+//=======================================
+// auto-generated string 39
+//=======================================
+
+// #cy『コムイへ[br]
+// 　近々アレンというガキを[br]
+// 　そっちに送るので#wh[wait]
+#cy{To Komui:#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x10AF, 46)
+
+//=======================================
+// auto-generated string 40
+//=======================================
+
+// #cy　ヨロシクな[br]
+// 　　　　　　　　クロス』#wh[wait]
+#cy    I'm sending over a kid named Allen[br]
+    soon, so take care of him.[br]
+                                     - Cross.}#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x10EC, 60)
+
+//=======================================
+// auto-generated string 41
+//=======================================
+
+// #cyはい！そーゆうことです。[br]
+// リーバー班長、入れてあげて#wh[wait]
+#cyRight! Well, there you have it.[br]
+Reever, let him in!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x114B, 23)
+
+//=======================================
+// auto-generated string 42
+//=======================================
+
+// #cyあーあー、門番#wh[wait]
+#cyAh jeez...#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x116A, 25)
+
+//=======================================
+// auto-generated string 43
+//=======================================
+
+// #cyやっぱり開門して#wh[wait]
+#cyGatekeeper, we need you to open the gate after all.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x118B, 27)
+
+//=======================================
+// auto-generated string 44
+//=======================================
+
+// “やっぱり”って何だよ！[wait]
+{After all}, he says!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x11B5, 19)
+
+//=======================================
+// auto-generated string 45
+//=======================================
+
+// #cyごめんねー#wh[wait]
+#cySorry.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x11D7, 31)
+
+//=======================================
+// auto-generated string 46
+//=======================================
+
+// #cyボクの早とちりだった！#wh[wait]
+#cyI jumped to the wrong conclusion earlier!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x11FE, 40)
+
+//=======================================
+// auto-generated string 47
+//=======================================
+
+// #cyその子、[br]
+// クロス元帥の弟子だった#wh[wait]
+#cyThat boy is an apprentice of General Cross.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x122E, 56)
+
+//=======================================
+// auto-generated string 48
+//=======================================
+
+// #cyティムキャンピーが付いてるの[br]
+// が何よりの証拠だよ#wh[wait]
+#cyTimcanpy being with him is proof enough.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1285, 9)
+
+//=======================================
+// auto-generated string 49
+//=======================================
+
+// ♪～～[wait]
+[note]~~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x12AD, 21)
+
+//=======================================
+// auto-generated string 50
+//=======================================
+
+// #cyほら、謝って#wh[wait]
+#cyHe's owed an apology...#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x12D1, 21)
+
+//=======================================
+// auto-generated string 51
+//=======================================
+
+// #cyリーバー班長#wh[wait]
+#cy...Reever!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x12EE, 37)
+
+//=======================================
+// auto-generated string 52
+//=======================================
+
+// #cyオレのせいみたいな言い方？！#wh[wait]
+#cySo it's my fault now?!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x131B, 52)
+
+//=======================================
+// auto-generated string 53
+//=======================================
+
+// #cy室長のくせに、部下にミスを[br]
+// なすりつけるな！#wh[wait]
+#cyThere goes the Chief's bad habit again, laying the blame on his subordinates!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x135B, 11)
+
+//=======================================
+// auto-generated string 54
+//=======================================
+
+// …………[wait]
+............
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1375, 44)
+
+//=======================================
+// auto-generated string 55
+//=======================================
+
+// #cyま、積もる話は中でゆっくりし[br]
+// ましょ#wh[wait]
+#cyWell, let's speak at our leisure inside...#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x13B0, 35)
+
+//=======================================
+// auto-generated string 56
+//=======================================
+
+// #cy──アレン・ウォーカーくん#wh[wait]
+#cy...Allen Walker.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x13DB, 48)
+
+//=======================================
+// auto-generated string 57
+//=======================================
+
+// #cy『黒の教団』本部への入場を[br]
+// 許可します！#wh[wait]
+#cyYou've been granted permission to enter the {Black Order}!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x148D, 27)
+
+//=======================================
+// auto-generated string 58
+//=======================================
+
+// はじめまして、アレンくん[wait]
+Welcome, Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14B0, 31)
+
+//=======================================
+// auto-generated string 59
+//=======================================
+
+// まずはこの教団服を着てみてね[wait]
+To start, try this uniform on for size.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14EA, 11)
+
+//=======================================
+// auto-generated string 60
+//=======================================
+
+// ……っと[wait]
+...There.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14FD, 19)
+
+//=======================================
+// auto-generated string 61
+//=======================================
+
+// これでいいかな？[wait]
+(I hope I've buttoned this correctly...)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x151F, 38)
+
+//=======================================
+// auto-generated string 62
+//=======================================
+
+// 私は室長助手の#piリナリー・リー#wh[br]
+// [wait]
+I'm the Chief Officer's assistant, #piLenalee Lee#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1554, 11)
+
+//=======================================
+// auto-generated string 63
+//=======================================
+
+// よろしく[wait]
+Nice to meet you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x156E, 46)
+
+//=======================================
+// auto-generated string 64
+//=======================================
+
+// これから室長のところまで案内[br]
+// するんだけど…[wait]
+I'll take you to see the Chief Officer...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15A4, 81)
+
+//=======================================
+// auto-generated string 65
+//=======================================
+
+// ちょっと時間があるから、[br]
+// その間にアレンくんに教団の[br]
+// ことをもっと知ってほしいの[wait]
+...but since we have some time, I'd like to tell you a bit more about our head-[br]
+quarters first.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1604, 77)
+
+//=======================================
+// auto-generated string 66
+//=======================================
+
+// 私はもちろん、教団のみんなに[br]
+// 話しかければ、色々なことを教[br]
+// えてくれるはずよ[wait]
+Of course, if you speak to everyone here, you'll learn about lots of different things!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1660, 23)
+
+//=======================================
+// auto-generated string 67
+//=======================================
+
+// ありがとうございます[wait]
+Thanks for your help.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1686, 73)
+
+//=======================================
+// auto-generated string 68
+//=======================================
+
+// そうそう、人に話しかける時は[br]
+// #glＴＡＬＫ（話す）#whコマンドを[br]
+// 使うのよ[wait]
+Oh yeah! If you want to talk to someone, use the #glTALK#wh command. 
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16DE, 25)
+
+//=======================================
+// auto-generated string 69
+//=======================================
+
+// #glＴＡＬＫ#whですか…[wait]
+#glTALK#wh, is it...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16FF, 79)
+
+//=======================================
+// auto-generated string 70
+//=======================================
+
+// #glＴＡＬＫ#whを使えば、[br]
+// アレンくんのそばにいる人に[br]
+// 話しかけることができるわ[wait]
+By using the #glTALK#wh command, you can speak to people near you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x175D, 69)
+
+//=======================================
+// auto-generated string 71
+//=======================================
+
+// 話す相手がいるエリアには、[br]
+// パネルの横にマーカーが表示[br]
+// されるから…[wait]
+You'll see a blue marker next to the name in the places where there are people to chat to.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17CB, 58)
+
+//=======================================
+// auto-generated string 72
+//=======================================
+
+// まず下画面の#gl小さなアレンくん#wh[br]
+// をタッチしてから……[wait]
+Start by touching the #glsmall sprite#wh of you on the bottom screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1836, 38)
+
+//=======================================
+// auto-generated string 73
+//=======================================
+
+// #glコマンドメニュー#wh[br]
+// を呼び出して[wait]
+Call the #glCOMMAND MENU#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1876, 11)
+
+//=======================================
+// auto-generated string 74
+//=======================================
+
+// それから[wait]
+And then...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x189B, 44)
+
+//=======================================
+// auto-generated string 75
+//=======================================
+
+// #glＴＡＬＫ（話す）#whを[br]
+// ２回タッチしてね[wait]
+...tap #glTALK#wh twice.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18F7, 17)
+
+//=======================================
+// auto-generated string 76
+//=======================================
+
+// わかりました。[wait]
+Understood!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1910, 48)
+
+//=======================================
+// auto-generated string 77
+//=======================================
+
+// エクソシストの任務は、[br]
+// 情報収集がとても大切よ[wait]
+Gathering intel is an important part of an Exorcist's duty.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1948, 52)
+
+//=======================================
+// auto-generated string 78
+//=======================================
+
+// 任務が始まったら、いろいろな[br]
+// 人に話しかけてみてね[wait]
+When starting a mission, try talking to a few different people.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1984, 61)
+
+//=======================================
+// auto-generated string 79
+//=======================================
+
+// 一度話した人でも、時間が[br]
+// 経てば違うことが聞ける時も[br]
+// あるわ[wait]
+You can talk to them more than once, and sometimes they might have new information to offer as time goes by!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x19D0, 11)
+
+//=======================================
+// auto-generated string 80
+//=======================================
+
+// なるほど[wait]
+I see...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x19EA, 46)
+
+//=======================================
+// auto-generated string 81
+//=======================================
+
+// それじゃあ、まずは[br]
+// 私とお話ししてみましょう[wait]
+Well then, why not try talking to me?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1A69, 48)
+
+//=======================================
+// auto-generated string 82
+//=======================================
+
+// まずは、#glＴＡＬＫ#whで[br]
+// 話しかけてみましょう[wait]
+First off, I should try pressing #glTALK#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1AC2, 23)
+
+//=======================================
+// auto-generated string 83
+//=======================================
+
+// ──はい、アレンくん[wait]
+--Great, Allen!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1AE1, 38)
+
+//=======================================
+// auto-generated string 84
+//=======================================
+
+// 次は、移動の方法について説明[br]
+// するね[wait]
+Next, I'll explain how to move.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1B42, 19)
+
+//=======================================
+// auto-generated string 85
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こうか？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x1B57, 13)
+
+//=======================================
+// auto-generated string 86
+//=======================================
+
+#SETSIZE(208, 1)
+
+// マップの見方
+How to view the map.
+
+#ENDMSG()
+
+#STARTMSG(0x1B6A, 17)
+
+//=======================================
+// auto-generated string 87
+//=======================================
+
+// マップの移動方法
+How to move using the map.
+
+#ENDMSG()
+
+#STARTMSG(0x1B81, 19)
+
+//=======================================
+// auto-generated string 88
+//=======================================
+
+// マップの移動のコツ
+Tips on using the map.
+
+#ENDMSG()
+
+#STARTMSG(0x1BAB, 19)
+
+//=======================================
+// auto-generated string 89
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こうか？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x1BC0, 13)
+
+//=======================================
+// auto-generated string 90
+//=======================================
+
+#SETSIZE(208, 1)
+
+// マップの見方
+How to view the map.
+
+#ENDMSG()
+
+#STARTMSG(0x1BD3, 17)
+
+//=======================================
+// auto-generated string 91
+//=======================================
+
+// マップの移動方法
+How to move using the map.
+
+#ENDMSG()
+
+#STARTMSG(0x1BEA, 19)
+
+//=======================================
+// auto-generated string 92
+//=======================================
+
+// マップの移動のコツ
+Tips on using the map.
+
+#ENDMSG()
+
+#STARTMSG(0x1C03, 9)
+
+//=======================================
+// auto-generated string 93
+//=======================================
+
+// 聞かない
+Nevermind.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x1C3A, 52)
+
+//=======================================
+// auto-generated string 94
+//=======================================
+
+// 下画面に表示されているのが、[br]
+// 現在地を表すマップよ[wait]
+The map on the bottom screen shows your current location.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1C76, 71)
+
+//=======================================
+// auto-generated string 95
+//=======================================
+
+// 今は黒の教団本部にいるから、[br]
+// 『黒の教団』本部の地図に[br]
+// なっているはず[wait]
+Since we're currently at headquarters, the map is showing the {Black Order's Headquarters}.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1CCC, 36)
+
+//=======================================
+// auto-generated string 96
+//=======================================
+
+// これが『黒の教団』のマップ[br]
+// ですね[wait]
+So this is a map of the Black Order...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1CFF, 67)
+
+//=======================================
+// auto-generated string 97
+//=======================================
+
+// 小さなアレンくんが、[br]
+// マップ上の、どの場所にいるか[br]
+// を表しているわ[wait]
+The small sprite shows your current location.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1D51, 34)
+
+//=======================================
+// auto-generated string 98
+//=======================================
+
+// 今いるのは[br]
+// 教団本部の入口ですね[wait]
+Right now, we're at the entrance of the headquarters.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1D82, 67)
+
+//=======================================
+// auto-generated string 99
+//=======================================
+
+// 任務中は、常にこのマップで[br]
+// 自分の場所を確認しながら、[br]
+// 行動してね[wait]
+During missions, you can always check this map to confirm your location and act accordingly.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1E23, 85)
+
+//=======================================
+// auto-generated string 100
+//=======================================
+
+// 別の場所に移動したい時は、[br]
+// まず、下画面がマップモードに[br]
+// なっているかどうか確認して[wait]
+If you want to move to a different location, first check that the lower screen is in map mode.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1E80, 38)
+
+//=======================================
+// auto-generated string 101
+//=======================================
+
+// 小さなアレンくんに[br]
+// ２回タッチしてね[wait]
+Tap your small sprite twice...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1EAE, 50)
+
+//=======================================
+// auto-generated string 102
+//=======================================
+
+// そうすると、移動できる場所へ[br]
+// ラインがつながるわ[wait]
+...and a line will connect you to the locations you can visit.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1EEF, 75)
+
+//=======================================
+// auto-generated string 103
+//=======================================
+
+// この入り口から移動できるのは[br]
+// ──研究室と、吹抜けと、[br]
+// 修練場……ですね？[wait]
+So I can move from the lobby--[br]
+To the laboratory, elevator or the training ground... right?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1F5B, 75)
+
+//=======================================
+// auto-generated string 104
+//=======================================
+
+// そう。そして行きたい場所の[br]
+// パネルをタッチすれば、[br]
+// その場所へ移動できるわ[wait]
+That's right. If you touch the name of where you want to go, you'll move there.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1FE7, 67)
+
+//=======================================
+// auto-generated string 105
+//=======================================
+
+// 移動できるルートは、[br]
+// 何かのきっかけで変化すること[br]
+// も少なくないわ[wait]
+The routes you can take will sometimes change depending on the situation.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2039, 83)
+
+//=======================================
+// auto-generated string 106
+//=======================================
+
+// それまで行けなかった場所に行[br]
+// けるようになったり、反対に道[br]
+// をふさがれてしまったり[wait]
+So I might be able to visit places that were previously obstructed...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2094, 25)
+
+//=======================================
+// auto-generated string 107
+//=======================================
+
+// ──ということですか？[wait]
+...is what you mean?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x20B5, 7)
+
+//=======================================
+// auto-generated string 108
+//=======================================
+
+// そう[wait]
+Yes.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x20C4, 81)
+
+//=======================================
+// auto-generated string 109
+//=======================================
+
+// だから、任務の時に何か事件が[br]
+// 起きたら、マップの変化を[br]
+// 確かめてみることも大切よ[wait]
+If something happens whilst you're out on a mission, be sure to check if the map has changed.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x21B5, 32)
+
+//=======================================
+// auto-generated string 110
+//=======================================
+
+// 私からの説明はこれでおしまい[br]
+// [wait]
+That's the end of my explanation.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x21E4, 85)
+
+//=======================================
+// auto-generated string 111
+//=======================================
+
+// じゃあ、室長からの呼び出しが[br]
+// あるまで、アレンくんは教団内[br]
+// 部を自由に見学してみてね[wait]
+Then, until the Chief Officer calls for us, feel free to explore inside the castle.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x229F, 54)
+
+//=======================================
+// auto-generated string 112
+//=======================================
+
+// 移動の方法について説明を[br]
+// もう一回聞きたいのかしら？[wait]
+Would you like me to explain about movement again?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x22E7, 19)
+
+//=======================================
+// auto-generated string 113
+//=======================================
+
+#SETSIZE(160, 1)
+
+// もう一度聞く？<W6>
+//Listen to the explanation again?<W6>
+Hear the explanation again?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x22FC, 5)
+
+//=======================================
+// auto-generated string 114
+//=======================================
+
+#SETSIZE(208, 1)
+
+// はい
+Yes.
+
+#ENDMSG()
+
+#STARTMSG(0x2307, 7)
+
+//=======================================
+// auto-generated string 115
+//=======================================
+
+// いいえ
+No.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x231B, 42)
+
+//=======================================
+// auto-generated string 116
+//=======================================
+
+// 室長からの連絡は、[br]
+// もう少しかかるみたい[wait]
+It seems like it may be a little longer before we hear from the Chief Officer.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x234D, 56)
+
+//=======================================
+// auto-generated string 117
+//=======================================
+
+// 違う場所へ移動する時は、[br]
+// 下画面のマップを見て動いてね[wait]
+If you'd like to move to a different location, look at the map on the lower screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x238D, 61)
+
+//=======================================
+// auto-generated string 118
+//=======================================
+
+// 誰かに話しかけたいと[br]
+// 思った時は、[br]
+// #glＴＡＬＫ#whを使うのよ[wait]
+When you'd like to speak to someone, use the #glTALK#wh command.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2426, 40)
+
+//=======================================
+// auto-generated string 119
+//=======================================
+
+// ……室長、俺は忙しいんスから[br]
+// ──ん？[wait]
+...Chief, I'm busy--[br]
+Hm?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2456, 34)
+
+//=======================================
+// auto-generated string 120
+//=======================================
+
+// お、お前が今日入ってきた新人[br]
+// か[wait]
+Oh, aren't you the rookie who just joined?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2480, 35)
+
+//=======================================
+// auto-generated string 121
+//=======================================
+
+// オレは科学班班長の#piリーバー#wh[wait]
+I'm the leader of the Science Division, #piReever#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x24AB, 48)
+
+//=======================================
+// auto-generated string 122
+//=======================================
+
+// 何か困ったことがあったら、[br]
+// いつでも呼んでくれ[wait]
+If you ever need help, feel free to call me.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x24E3, 23)
+
+//=======================================
+// auto-generated string 123
+//=======================================
+
+// これから、よろしくな[wait]
+Let's get along.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2502, 25)
+
+//=======================================
+// auto-generated string 124
+//=======================================
+
+// アレン・ウォーカーです[wait]
+I'm Allen Walker.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2523, 23)
+
+//=======================================
+// auto-generated string 125
+//=======================================
+
+// よろしくお願いします[wait]
+Pleased to meet you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2542, 69)
+
+//=======================================
+// auto-generated string 126
+//=======================================
+
+// ところでお前、[br]
+// #glＳＥＡＲＣＨ（調べる）#wh[br]
+// の使い方は知ってるか？[wait]
+By the way, are you familiar with the #glSEARCH#wh command?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2596, 31)
+
+//=======================================
+// auto-generated string 127
+//=======================================
+
+// #glＳＥＡＲＣＨ#wh…ですか？[wait]
+The #glSEARCH#wh command...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x25BD, 73)
+
+//=======================================
+// auto-generated string 128
+//=======================================
+
+// #glＳＥＡＲＣＨ#whを使いこなさなけ[br]
+// れば、任務をこなすことはでき[br]
+// ないぜ[wait]
+If you don't master #glSEARCH#wh, you won't be able to complete your missions.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2641, 17)
+
+//=======================================
+// auto-generated string 129
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x2654, 23)
+
+//=======================================
+// auto-generated string 130
+//=======================================
+
+#SETSIZE(208, 1)
+
+// #glＳＥＡＲＣＨ#whとは
+What does #glSEARCH#wh do?
+
+#ENDMSG()
+
+#STARTMSG(0x2671, 25)
+
+//=======================================
+// auto-generated string 131
+//=======================================
+
+// #glＳＥＡＲＣＨ#whの方法
+How to use #glSEARCH#wh.
+
+#ENDMSG()
+
+#STARTMSG(0x2690, 25)
+
+//=======================================
+// auto-generated string 132
+//=======================================
+
+// #glＳＥＡＲＣＨ#whのコツ
+Tips on using #glSEARCH#wh.
+
+#ENDMSG()
+
+#STARTMSG(0x26C0, 17)
+
+//=======================================
+// auto-generated string 133
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x26D3, 23)
+
+//=======================================
+// auto-generated string 134
+//=======================================
+
+#SETSIZE(208, 1)
+
+// #glＳＥＡＲＣＨ#whとは
+What does #glSEARCH#wh do?
+
+#ENDMSG()
+
+#STARTMSG(0x26F0, 25)
+
+//=======================================
+// auto-generated string 135
+//=======================================
+
+// #glＳＥＡＲＣＨ#whの方法
+How to use #glSEARCH#wh.
+
+#ENDMSG()
+
+#STARTMSG(0x270F, 25)
+
+//=======================================
+// auto-generated string 136
+//=======================================
+
+// #glＳＥＡＲＣＨ#whのコツ
+Tips on using #glSEARCH#wh.
+
+#ENDMSG()
+
+#STARTMSG(0x272E, 9)
+
+//=======================================
+// auto-generated string 137
+//=======================================
+
+// 聞かない
+Nevermind.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x274F, 87)
+
+//=======================================
+// auto-generated string 138
+//=======================================
+
+// #glＳＥＡＲＣＨ#whを実行すれば、[br]
+// 今お前がいる場所をいろいろと[br]
+// 調べてみることができる[wait]
+Using #glSEARCH#wh, you can examine your current location.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x27AE, 61)
+
+//=======================================
+// auto-generated string 139
+//=======================================
+
+// ぱっと見て怪しいところがあっ[br]
+// たら、すぐに調べたほうがいい[br]
+// [wait]
+If you see something twinkling suspiciously, you should investigate immediately.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x27F3, 40)
+
+//=======================================
+// auto-generated string 140
+//=======================================
+
+// 金貨いっぱいの宝箱を見つけた[br]
+// 時とかな[wait]
+You might discover a treasure chest filled with gold!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x282A, 52)
+
+//=======================================
+// auto-generated string 141
+//=======================================
+
+// えっ、そんなものが見つかるこ[br]
+// とがあるんですか？！[wait]
+Huh? Is that really possible?!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2866, 21)
+
+//=======================================
+// auto-generated string 142
+//=======================================
+
+// ……ははは。冗談だ[wait]
+...Hahaha, I'm kidding!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x288A, 75)
+
+//=======================================
+// auto-generated string 143
+//=======================================
+
+// 逆に、一見何もなさそうな場所[br]
+// でも、調べてみると何かが見つ[br]
+// かることがある[wait]
+On the contrary, even if it looks like there's nothing to be seen, if you investigate, you might discover something.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x28DD, 93)
+
+//=======================================
+// auto-generated string 144
+//=======================================
+
+// 任務には欠かせないモノが隠さ[br]
+// れていることも多いから、まめ[br]
+// に#glＳＥＡＲＣＨ#whしてみてくれ[wait]
+Something essential to your mission may be hidden, so be sure to #glSEARCH#wh diligently.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x295A, 29)
+
+//=======================================
+// auto-generated string 145
+//=======================================
+
+// まず、どこかを調べたい時は[wait]
+First, when you want to examine something...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x29A0, 54)
+
+//=======================================
+// auto-generated string 146
+//=======================================
+
+// 下画面の#glモード切り替えボタン#wh[br]
+// をタッチして……[wait]
+Tap on the #glMODE toggle button#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x29F0, 40)
+
+//=======================================
+// auto-generated string 147
+//=======================================
+
+// #glコマンドメニュー#whを[br]
+// 呼び出して…[wait]
+Call the #glCOMMAND MENU#wh...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2A49, 42)
+
+//=======================================
+// auto-generated string 148
+//=======================================
+
+// そして、#glＳＥＡＲＣＨ#whを[br]
+// タッチする[wait]
+Then, touch #glSEARCH#wh twice.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2AA3, 67)
+
+//=======================================
+// auto-generated string 149
+//=======================================
+
+// すると下画面がマップから[br]
+// #gl≪探索中≫#whの画面に切り替わる[br]
+// から[wait]
+The bottom screen will switch from the map, to #gl[<]Search Mode[>]#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2AEE, 48)
+
+//=======================================
+// auto-generated string 150
+//=======================================
+
+// 調べたいところをタッチペンで[br]
+// タッチすればいい[wait]
+Touch the spot you'd like to investigate with the stylus pen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2B2D, 36)
+
+//=======================================
+// auto-generated string 151
+//=======================================
+
+// タッチすると、[br]
+// どうなるんですか？[wait]
+What happens after that?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2B59, 27)
+
+//=======================================
+// auto-generated string 152
+//=======================================
+
+// そりゃオレにもわからんよ[wait]
+That... I don't know.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2B7C, 85)
+
+//=======================================
+// auto-generated string 153
+//=======================================
+
+// 変なボタンを押したら爆発する[br]
+// かもしれないし、アクマだった[br]
+// ら襲ってくるかもしれない[wait]
+If you push a strange button, something might explode, or if there's an Akuma, it'll attack.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2BE0, 40)
+
+//=======================================
+// auto-generated string 154
+//=======================================
+
+// あ、あんまりおどかさないでく[br]
+// ださいよ[wait]
+P-please stop, you'll give me nightmares!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2C10, 15)
+
+//=======================================
+// auto-generated string 155
+//=======================================
+
+// すまんすまん[wait]
+Sorry, sorry.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2C27, 69)
+
+//=======================================
+// auto-generated string 156
+//=======================================
+
+// とにかく、怪しいと思うところ[br]
+// があったら、積極的に調べてみ[br]
+// ることだ[wait]
+In any case, if you see something that looks suspicious, be proactive and investigate.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2C7B, 21)
+
+//=======================================
+// auto-generated string 157
+//=======================================
+
+// はい。わかりました[wait]
+Alright, understood.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2CB0, 83)
+
+//=======================================
+// auto-generated string 158
+//=======================================
+
+// いくら重要だとは言っても、[br]
+// ただやみくもに#glＳＥＡＲＣＨ#wh[br]
+// するのは時間の無駄だ[wait]
+I know I mentioned how important it is to use, but it's a waste of time to just #glSEARCH#wh blindly.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2D0B, 53)
+
+//=======================================
+// auto-generated string 159
+//=======================================
+
+// ほとんどの場合、[br]
+// 調べるべき場所や[br]
+// モノについては、[wait]
+In most cases, for locations and objects to look out for...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2D48, 32)
+
+//=======================================
+// auto-generated string 160
+//=======================================
+
+// 何らかの手がかりが[br]
+// あるはずだ[wait]
+...there will be some sort of clue.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2D70, 36)
+
+//=======================================
+// auto-generated string 161
+//=======================================
+
+// それを見逃さないことが、[br]
+// 大切だな[wait]
+Be careful not to miss those.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2D9C, 46)
+
+//=======================================
+// auto-generated string 162
+//=======================================
+
+// 手始めに、この研究室を調べて[br]
+// みたらどうだ？[wait]
+For starters, why don't you take a look around the lab?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2DD2, 42)
+
+//=======================================
+// auto-generated string 163
+//=======================================
+
+// 何か面白いものが見つかるかも[br]
+// しれないぞ[wait]
+You might find something interesting.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2EBB, 46)
+
+//=======================================
+// auto-generated string 164
+//=======================================
+
+// 手始めに、この研究室を調べて[br]
+// みたらどうだ？[wait]
+For starters, why don't you take a look around the lab?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2EF1, 42)
+
+//=======================================
+// auto-generated string 165
+//=======================================
+
+// 何か面白いものが見つかるかも[br]
+// しれないぞ[wait]
+You might find something interesting.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2F5B, 42)
+
+//=======================================
+// auto-generated string 166
+//=======================================
+
+// 誰かいるみたいです[br]
+// 話しかけてみましょう[wait]
+There seems to be someone to talk to.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x2FD7, 40)
+
+//=======================================
+// auto-generated string 167
+//=======================================
+
+// 下の画面の調べたい所を[br]
+// タッチして下さい
+Touch the spot you'd like to examine on the screen below.
+
+#ENDMSG()
+
+#STARTMSG(0x3093, 17)
+
+//=======================================
+// auto-generated string 168
+//=======================================
+
+// 大きな地球儀だ[wait]
+It's a big globe.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x30D2, 31)
+
+//=======================================
+// auto-generated string 169
+//=======================================
+
+// 机の上は乱雑に散らかっている[wait]
+The desk is covered with clutter.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x311F, 29)
+
+//=======================================
+// auto-generated string 170
+//=======================================
+
+// 古い文字の書かれた本がある[wait]
+There are books written in an ancient language.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x316F, 31)
+
+//=======================================
+// auto-generated string 171
+//=======================================
+
+// 色々な実験道具が置かれている[wait]
+Various pieces of scientific equipment have been left here.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x31BC, 17)
+
+//=======================================
+// auto-generated string 172
+//=======================================
+
+// ここは研究室だ[wait]
+This is the laboratory.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3202, 31)
+
+//=======================================
+// auto-generated string 173
+//=======================================
+
+// 何だろう。この紙切れは……？[wait]
+What's this, a scrap of paper...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3230, 27)
+
+//=======================================
+// auto-generated string 174
+//=======================================
+
+// お、それは#yl食券#whだな[wait]
+Oh, that's a #ylmeal ticket#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3253, 38)
+
+//=======================================
+// auto-generated string 175
+//=======================================
+
+// 食堂でそれを渡せば、[br]
+// メシが食えるぞ[wait]
+If you take it to the dining hall, you can get some food.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3281, 40)
+
+//=======================================
+// auto-generated string 176
+//=======================================
+
+// せっかくだから、アレン。[br]
+// お前にやるよ[wait]
+Since you managed to find it, Allen, why don't you keep it?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x32B8, 38)
+
+//=======================================
+// auto-generated string 177
+//=======================================
+
+// ありがとうございます！[br]
+// リーバーさん[wait]
+Thank you, Reever!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3326, 61)
+
+//=======================================
+// auto-generated string 178
+//=======================================
+
+// なんだ？もう一度[br]
+// #glＳＥＡＲＣＨ#whの説明を[br]
+// 聞きたいのか？[wait]
+What? Do you want me to explain the #glSEARCH#wh command again?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3375, 19)
+
+//=======================================
+// auto-generated string 179
+//=======================================
+
+#SETSIZE(160, 1)
+
+// もう一度聞く？<W6>
+//Listen to the explanation again?<W6>
+Hear the explanation again?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x338A, 5)
+
+//=======================================
+// auto-generated string 180
+//=======================================
+
+#SETSIZE(208, 1)
+
+// はい
+Yes.
+
+#ENDMSG()
+
+#STARTMSG(0x3395, 7)
+
+//=======================================
+// auto-generated string 181
+//=======================================
+
+// いいえ
+No.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x33B0, 52)
+
+//=======================================
+// auto-generated string 182
+//=======================================
+
+// #yl食券#whなら、食堂に持ってい[br]
+// けばメシが食えるぞ[wait]
+If you take that #ylmeal ticket#wh to the dining hall, you can get some food.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x33EC, 32)
+
+//=======================================
+// auto-generated string 183
+//=======================================
+
+// ジェリー料理長に、よろしくな[br]
+// [wait]
+Give my regards to Jerry, the chef.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3492, 13)
+
+//=======================================
+// auto-generated string 184
+//=======================================
+
+// アラん？！[wait]
+Oh my!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x34A7, 25)
+
+//=======================================
+// auto-generated string 185
+//=======================================
+
+// もしかして新入りさん？[wait]
+Are you new?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x34C8, 15)
+
+//=======================================
+// auto-generated string 186
+//=======================================
+
+// んま────[wait]
+My, myyy--
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x34DF, 40)
+
+//=======================================
+// auto-generated string 187
+//=======================================
+
+// これはまたカワイイ子が入った[br]
+// わね！！[wait]
+Another cutie has joined!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x350F, 50)
+
+//=======================================
+// auto-generated string 188
+//=======================================
+
+// アタシは#piジェリー#wh。[br]
+// ここの料理長やってるの[wait]
+I'm #piJerry#wh. I do the cooking around here.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3549, 21)
+
+//=======================================
+// auto-generated string 189
+//=======================================
+
+// どうもはじめまして[wait]
+Nice to meet you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3566, 25)
+
+//=======================================
+// auto-generated string 190
+//=======================================
+
+// アレン・ウォーカーです[wait]
+I'm Allen Walker.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3587, 45)
+
+//=======================================
+// auto-generated string 191
+//=======================================
+
+// 何食べる？[br]
+// 何でも作っちゃうわよ[br]
+// アタシ！！[wait]
+What can I get you?[br]
+I'll make anything you want!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x35C3, 17)
+
+//=======================================
+// auto-generated string 192
+//=======================================
+
+// え、えーと……[wait]
+Oh, umm...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x35E3, 77)
+
+//=======================================
+// auto-generated string 193
+//=======================================
+
+// （厨房からは、おいしそうな[br]
+// 匂いがする。少しお腹がすいて[br]
+// きちゃったな……）[wait]
+(There is a delicious smell coming from the kitchen. I am a little hungry...)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3638, 56)
+
+//=======================================
+// auto-generated string 194
+//=======================================
+
+// ところで、アレンちゃんは#yl食券#wh[br]
+// は持ってるかしら？[wait]
+By the way, have you got a #ylmeal ticket#wh?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3685, 13)
+
+//=======================================
+// auto-generated string 195
+//=======================================
+
+// アラん？！[wait]
+Oh my!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x369A, 17)
+
+//=======================================
+// auto-generated string 196
+//=======================================
+
+// アレンちゃん？[wait]
+You're here, Allen?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x36B3, 36)
+
+//=======================================
+// auto-generated string 197
+//=======================================
+
+// #yl食券#whを持って[br]
+// 来たのかしら？[wait]
+Did you bring a #ylmeal ticket#wh?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3708, 63)
+
+//=======================================
+// auto-generated string 198
+//=======================================
+
+// あら、アレンちゃん。[br]
+// あなた#yl食券#whを持っていない[br]
+// じゃない[wait]
+Oh, Allen... You don't have a one?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x374F, 87)
+
+//=======================================
+// auto-generated string 199
+//=======================================
+
+// ここで食事をするには#yl食券#whが[br]
+// 必要よ。#yl食券#whを手に入れたら、[br]
+// またいらっしゃい[wait]
+You'll need #ylmeal ticket#wh to eat here. Once you have one in-hand, be sure to visit!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x37BE, 81)
+
+//=======================================
+// auto-generated string 200
+//=======================================
+
+// #yl食券#whを持っているなら、[br]
+// #glＩＴＥＭ（アイテム）#whで使って[br]
+// みてちょうだい[wait]
+If you have one, try using the #glITEM#wh menu!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3817, 89)
+
+//=======================================
+// auto-generated string 201
+//=======================================
+
+// ここで食事をするには#yl食券#whが[br]
+// 必要よ。#yl食券#whを手に入れたら、[br]
+// また、いらっしゃい[wait]
+You'll need #ylmeal ticket#wh to eat here. Once you have one in-hand, be sure to visit!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3878, 66)
+
+//=======================================
+// auto-generated string 202
+//=======================================
+
+// もし、#glＩＴＥＭ（アイテム）#whの[br]
+// 使い方がわからないようなら…[wait]
+If you don't know how to use an #glITEM#wh...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x38C2, 29)
+
+//=======================================
+// auto-generated string 203
+//=======================================
+
+// 私に何でも聞いてちょうだい[wait]
+...feel free to ask me any questions~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x38F1, 19)
+
+//=======================================
+// auto-generated string 204
+//=======================================
+
+// あら、なにかしら[wait]
+Oh, what can I do for you?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x390C, 50)
+
+//=======================================
+// auto-generated string 205
+//=======================================
+
+// アタシは#piジェリー#wh。[br]
+// ここの料理長やってるの[wait]
+I'm #piJerry#wh. I do the cooking around here.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3946, 29)
+
+//=======================================
+// auto-generated string 206
+//=======================================
+
+// 私に何でも聞いてちょうだい[wait]
+Feel free to ask me anything~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x399E, 17)
+
+//=======================================
+// auto-generated string 207
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x39B1, 19)
+
+//=======================================
+// auto-generated string 208
+//=======================================
+
+#SETSIZE(208, 1)
+
+// #glアイテム#whとは
+What does #glITEM#wh do?
+
+#ENDMSG()
+
+#STARTMSG(0x39CA, 25)
+
+//=======================================
+// auto-generated string 209
+//=======================================
+
+// #glアイテム#whの使用方法
+How to use #glITEM#wh?
+
+#ENDMSG()
+
+#STARTMSG(0x39E9, 21)
+
+//=======================================
+// auto-generated string 210
+//=======================================
+
+// #glアイテム#whの秘密
+Tips on using items.
+
+#ENDMSG()
+
+#STARTMSG(0x3A15, 17)
+
+//=======================================
+// auto-generated string 211
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x3A28, 19)
+
+//=======================================
+// auto-generated string 212
+//=======================================
+
+#SETSIZE(208, 1)
+
+// #glアイテム#whとは
+What does #glITEM#wh do?
+
+#ENDMSG()
+
+#STARTMSG(0x3A41, 25)
+
+//=======================================
+// auto-generated string 213
+//=======================================
+
+// #glアイテム#whの使用方法
+How to use #glITEM#wh?
+
+#ENDMSG()
+
+#STARTMSG(0x3A60, 21)
+
+//=======================================
+// auto-generated string 214
+//=======================================
+
+// #glアイテム#whの秘密
+Tips on using items.
+
+#ENDMSG()
+
+#STARTMSG(0x3A7B, 9)
+
+//=======================================
+// auto-generated string 215
+//=======================================
+
+// 聞かない
+Nevermind.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x3A95, 81)
+
+//=======================================
+// auto-generated string 216
+//=======================================
+
+// #glＩＴＥＭ（アイテム）#whは、[br]
+// 自分が持っているモノ（アイテ[br]
+// ム）を使いたい時に[wait]
+The #glITEM#wh command opens your inventory.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3AEE, 21)
+
+//=======================================
+// auto-generated string 217
+//=======================================
+
+// 実行するコマンドよ[wait]
+There, you can use your items.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3B0B, 75)
+
+//=======================================
+// auto-generated string 218
+//=======================================
+
+// トビラのカギとか、誰かの落し[br]
+// 物とか、アイテムにはいろいろ[br]
+// な種類があるわ[wait]
+There are many different kinds of items, such as keys for locked doors, or someone's lost property.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3B5E, 87)
+
+//=======================================
+// auto-generated string 219
+//=======================================
+
+// アイテムは、人からもらったり[br]
+// いろいろな場所を調べることで[br]
+// 手に入れることができるから[wait]
+Items can be obtained from people or by investigating different locations.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3BBD, 17)
+
+//=======================================
+// auto-generated string 220
+//=======================================
+
+// 覚えておくのよ[wait]
+Keep it in mind!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3C08, 73)
+
+//=======================================
+// auto-generated string 221
+//=======================================
+
+// #glアイテム#whを使いたい時は、[br]
+// 下画面の#glモード切り替えボタン#wh[br]
+// で…[wait]
+When you want to use view an #glITEM#wh, first tap the #glMODE toggle button#wh on the lower screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3C59, 42)
+
+//=======================================
+// auto-generated string 222
+//=======================================
+
+// #glコマンドメニュー#whを[br]
+// 呼び出してから[wait]
+Call the #glCOMMAND MENU#wh...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3C9D, 33)
+
+//=======================================
+// auto-generated string 223
+//=======================================
+
+// #glＩＴＥＭ#whをタッチするのよ[wait]
+Then, touch #glITEM#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3CD8, 85)
+
+//=======================================
+// auto-generated string 224
+//=======================================
+
+// そうしたら、アイテムの一覧が[br]
+// 表示されるから、使いたいアイ[br]
+// テムを選べばいいってわけ[wait]
+You'll see a list of items, so you can choose which one you want to use.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3D5D, 11)
+
+//=======================================
+// auto-generated string 225
+//=======================================
+
+// そうそう[wait]
+Oh, right...!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3D70, 65)
+
+//=======================================
+// auto-generated string 226
+//=======================================
+
+// #glアイテム#whを使えるのは、[br]
+// アレンちゃんだけだから[br]
+// 注意してね[wait]
+You can only use each item once, so be careful what you do, Allen!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3DCA, 56)
+
+//=======================================
+// auto-generated string 227
+//=======================================
+
+// アイテムには任務をクリアする[br]
+// ために必要なアイテムと…[wait]
+Using items will be essential to completing your missions. Oh, and...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3E0A, 48)
+
+//=======================================
+// auto-generated string 228
+//=======================================
+
+// 集めると『いいこと』があるア[br]
+// イテムがあるのよ[wait]
+...{something nice} might come out of collecting them.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3E49, 38)
+
+//=======================================
+// auto-generated string 229
+//=======================================
+
+// どんな『いいこと』が[br]
+// あるんですか？[wait]
+What do you mean, {something nice}?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3E77, 51)
+
+//=======================================
+// auto-generated string 230
+//=======================================
+
+// さあ…？[br]
+// ウワサだから、そこまでは[br]
+// わからないわね[wait]
+I wonder...?[br]
+I've heard some rumours, but I'm not quite sure myself!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3EB2, 40)
+
+//=======================================
+// auto-generated string 231
+//=======================================
+
+// でも、なんか夢があって[br]
+// いいじゃない？[wait]
+But isn't it nice to dream?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3EE2, 56)
+
+//=======================================
+// auto-generated string 232
+//=======================================
+
+// アレンちゃんもいろいろなアイ[br]
+// テムを探してみるといいわ[wait]
+Allen, you must remember to search around for items.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3FDC, 19)
+
+//=======================================
+// auto-generated string 233
+//=======================================
+
+// あら、なにかしら[wait]
+Oh, what can I do for you?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x3FF7, 29)
+
+//=======================================
+// auto-generated string 234
+//=======================================
+
+// 私に何でも聞いてちょうだい[wait]
+Feel free to ask me anything~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x40C2, 46)
+
+//=======================================
+// auto-generated string 235
+//=======================================
+
+// まずは、ここにいる人に話を[br]
+// 聞いてみましょう[wait]
+First off, let's talk to the person here.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4127, 44)
+
+//=======================================
+// auto-generated string 236
+//=======================================
+
+// ちゃんと#yl食券#whを持ってきて[br]
+// くれたのね[wait]
+You've brought me a #ylmeal ticket#wh?[br]
+Oh, perfect! 
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x415B, 42)
+
+//=======================================
+// auto-generated string 237
+//=======================================
+
+// じゃあ、もう遠慮なく注文して[br]
+// ちょうだい[wait]
+Then please don't hesitate to order something~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x418D, 32)
+
+//=======================================
+// auto-generated string 238
+//=======================================
+
+// アタシが何でも作っちゃうから[br]
+// [wait]
+I'll make anything you want!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x41BD, 17)
+
+//=======================================
+// auto-generated string 239
+//=======================================
+
+// ほんとですか！[wait]
+Really?!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x41DD, 17)
+
+//=======================================
+// auto-generated string 240
+//=======================================
+
+// それじゃあ……[wait]
+Well, then...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x41F6, 72)
+
+//=======================================
+// auto-generated string 241
+//=======================================
+
+// グラタンとポテトと、[br]
+// ドライカレーとマーボー豆腐と、[br]
+// ビーフシチューと[br]
+// [wait]
+Potatoes au Gratin, Dry Curry with Mapo Tofu, Beef Stew...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4246, 77)
+
+//=======================================
+// auto-generated string 242
+//=======================================
+
+// ミートパイとカルパッチョと[br]
+// ナシゴレンとチキンに[br]
+// ポテトサラダにスコーンと、[wait]
+Meat Pie, Carpaccio, Nasi Goreng, Chicken and Potato Salad, Scones...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x429B, 83)
+
+//=======================================
+// auto-generated string 243
+//=======================================
+
+// クッパにトムヤンクンとライス[br]
+// あとデザートにマンゴープリン[br]
+// とみたらし団子２０本で[wait]
+Gukbap, Tom Yum soup and rice, and then for desert; Mango Pudding and twenty Mitarashi Dango, please!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x42F6, 31)
+
+//=======================================
+// auto-generated string 244
+//=======================================
+
+// あんた、そんなに食べんの？！[wait]
+You're really going to eat that much?!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x431D, 21)
+
+//=======================================
+// auto-generated string 245
+//=======================================
+
+// ちょっと待っててね[wait]
+...Please give me a moment.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x434E, 17)
+
+//=======================================
+// auto-generated string 246
+//=======================================
+
+// 何だとコラァ！[wait]
+What did you just say--!?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x438B, 50)
+
+//=======================================
+// auto-generated string 247
+//=======================================
+
+// （おや？　向こうで何か騒ぎが[br]
+// 始まったみたいだ）[wait]
+(Hm? It seems like someone's kicking up a storm...)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x43CC, 23)
+
+//=======================================
+// auto-generated string 248
+//=======================================
+
+// ……って言ってんだろ[wait]
+...Won't you shut up already?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x43F2, 48)
+
+//=======================================
+// auto-generated string 249
+//=======================================
+
+// おい、#pi神田#wh[br]
+// もういっぺん言ってみやがれ！[wait]
+Oi, #piKanda#wh, try saying that one more time!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4431, 23)
+
+//=======================================
+// auto-generated string 250
+//=======================================
+
+// 聞こえなかったのか？[wait]
+You didn't hear me?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4450, 83)
+
+//=======================================
+// auto-generated string 251
+//=======================================
+
+// メシ食ってる時に、後ろでメソ[br]
+// メソ死んだ奴らの追悼をされ[br]
+// ちゃ、味がマズくなんだよ[wait]
+You guys are ruining my appetite by sobbing and having a memorial for the dead behind me whilst I'm eating.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x44B2, 13)
+
+//=======================================
+// auto-generated string 252
+//=======================================
+
+// テメェ……[wait]
+Why you...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x44C7, 48)
+
+//=======================================
+// auto-generated string 253
+//=======================================
+
+// それが殉職した同志に向かって[br]
+// 言うセリフか！！[wait]
+How could you say something like that about our fallen comrades who died while on duty?!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4506, 27)
+
+//=======================================
+// auto-generated string 254
+//=======================================
+
+// 死ぬのがイヤなら出てけよ[wait]
+If you want to live, leave now.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4529, 48)
+
+//=======================================
+// auto-generated string 255
+//=======================================
+
+// お前１人分の命くらい、[br]
+// いくらでも代わりはいる[wait]
+There are tons of replacements for your puny life.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4561, 11)
+
+//=======================================
+// auto-generated string 256
+//=======================================
+
+// ストップ[wait]
+That's enough.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x457B, 11)
+
+//=======================================
+// auto-generated string 257
+//=======================================
+
+// …………[wait]
+.........
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x458E, 63)
+
+//=======================================
+// auto-generated string 258
+//=======================================
+
+// 関係ないとこ悪いですけど、そ[br]
+// ういう言い方はないと思います[br]
+// よ[wait]
+Sorry to intrude, but I don't think that's the proper way to speak to someone.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x45D5, 25)
+
+//=======================================
+// auto-generated string 259
+//=======================================
+
+// すっこんでろよ、モヤシ[wait]
+Back off, Beansprout.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x45FD, 29)
+
+//=======================================
+// auto-generated string 260
+//=======================================
+
+// （モ、モヤシって……？！）[wait]
+(B-Beansprout...?!)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4629, 13)
+
+//=======================================
+// auto-generated string 261
+//=======================================
+
+// アレンです[wait]
+My name is Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4645, 50)
+
+//=======================================
+// auto-generated string 262
+//=======================================
+
+// はっ、１ヶ月でくたばらなかっ[br]
+// たら、覚えてやるよ[wait]
+Hah, I'll remember you if you're still alive in a month.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x467F, 42)
+
+//=======================================
+// auto-generated string 263
+//=======================================
+
+// ここじゃパタパタ死んでく奴[br]
+// が多いからな[wait]
+They drop like flies around here...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x46B1, 19)
+
+//=======================================
+// auto-generated string 264
+//=======================================
+
+// こいつらみたいに[wait]
+Just like this guy.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x46CC, 38)
+
+//=======================================
+// auto-generated string 265
+//=======================================
+
+// だから、そういう言い方はない[br]
+// でしょ[wait]
+Didn't I just say that's not the way to talk to someone?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4701, 11)
+
+//=======================================
+// auto-generated string 266
+//=======================================
+
+// …………[wait]
+............
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4714, 11)
+
+//=======================================
+// auto-generated string 267
+//=======================================
+
+// …………[wait]
+............
+
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x472E, 25)
+
+//=======================================
+// auto-generated string 268
+//=======================================
+
+// 早死にするぜ、お前……[wait]
+You're gonna die before your time, kid...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x474F, 19)
+
+//=======================================
+// auto-generated string 269
+//=======================================
+
+// キライなタイプだ[wait]
+I hate guys like you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x47C2, 52)
+
+//=======================================
+// auto-generated string 270
+//=======================================
+
+// #glＩＴＥＭ#whの説明を[br]
+// もう一度聞きたいのかしら？[wait]
+Would you like me to repeat how to use the #glITEM#wh command?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4808, 19)
+
+//=======================================
+// auto-generated string 271
+//=======================================
+
+#SETSIZE(160, 1)
+
+// もう一度聞く？<W6>
+//Listen to the explanation again?<W6>
+Hear the explanation again?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x481D, 5)
+
+//=======================================
+// auto-generated string 272
+//=======================================
+
+#SETSIZE(208, 1)
+
+// はい
+Yes.
+
+#ENDMSG()
+
+#STARTMSG(0x4828, 7)
+
+//=======================================
+// auto-generated string 273
+//=======================================
+
+// いいえ
+No.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x483C, 44)
+
+//=======================================
+// auto-generated string 274
+//=======================================
+
+// もっといろいろな場所を回って[br]
+// いらっしゃい[wait]
+Why don't you go and explore some more rooms?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x489F, 31)
+
+//=======================================
+// auto-generated string 275
+//=======================================
+
+// あら、まだ食べ足りないの！？[wait]
+Oh my, you're still hungry!?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x48C6, 46)
+
+//=======================================
+// auto-generated string 276
+//=======================================
+
+// 今日はアレンちゃんのおかげで[br]
+// もう店じまいよ[wait]
+Thanks to your order earlier, I'm all sold out.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x48FC, 65)
+
+//=======================================
+// auto-generated string 277
+//=======================================
+
+// 今度はもっと材料を仕入れてお[br]
+// くから、今日は我慢してちょう[br]
+// だい[wait]
+Next time I'll stock up on more ingredients, so please bear with it for today.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x49AF, 40)
+
+//=======================================
+// auto-generated string 278
+//=======================================
+
+// ここは『修練場』と呼ばれて[br]
+// いるらしい[wait]
+This place seems to be called the {training ground}.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x49DF, 56)
+
+//=======================================
+// auto-generated string 279
+//=======================================
+
+// どうやら、エクソシストが何か[br]
+// の訓練をする場所みたいだ[wait]
+It looks like this is where Exorcists practise their skills.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4A47, 40)
+
+//=======================================
+// auto-generated string 280
+//=======================================
+
+// ここは『修練場』と呼ばれて[br]
+// いるらしい[wait]
+This place seems to be called the {training ground}.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4A77, 56)
+
+//=======================================
+// auto-generated string 281
+//=======================================
+
+// どうやら、エクソシストが何か[br]
+// の訓練をする場所みたいだ[wait]
+// の訓練をする場所みたいだ[wait]
+It looks like this is where Exorcists practise their skills.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4ABB, 11)
+
+//=======================================
+// auto-generated string 282
+//=======================================
+
+// ……ん？[wait]
+...Hm?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4AD5, 29)
+
+//=======================================
+// auto-generated string 283
+//=======================================
+
+// あれは確か、食堂にいた──[wait]
+That definitely came from the dining hall--
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4B7A, 11)
+
+//=======================================
+// auto-generated string 284
+//=======================================
+
+// …………[wait]
+............
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4B8D, 36)
+
+//=======================================
+// auto-generated string 285
+//=======================================
+
+// カンダ、って[br]
+// 名前でしたよね……？[wait]
+Your name was {Kanda}, right...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4BB9, 29)
+
+//=======================================
+// auto-generated string 286
+//=======================================
+
+// 僕はアレン・ウォーカーです[wait]
+I'm Allen Walker.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4BE5, 11)
+
+//=======================================
+// auto-generated string 287
+//=======================================
+
+// よろしく[wait]
+How do you do?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4BF8, 42)
+
+//=======================================
+// auto-generated string 288
+//=======================================
+
+// お前が新入りのエクソシスト[br]
+// だな、モヤシ[wait]
+So you're a new Exorcist, Beansprout...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4C31, 36)
+
+//=======================================
+// auto-generated string 289
+//=======================================
+
+// 僕の名前はモヤシじゃ[br]
+// ありません！[wait]
+My name isn't {Beansprout}!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4C64, 67)
+
+//=======================================
+// auto-generated string 290
+//=======================================
+
+// 食堂ではあれだけ大口を叩いた[br]
+// んだ、戦うことはできるんだろ[br]
+// うな？[wait]
+You kept running your big mouth in the dining hall, but can you even fight?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4CB6, 11)
+
+//=======================================
+// auto-generated string 291
+//=======================================
+
+// もちろん[wait]
+Of course.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4CC9, 50)
+
+//=======================================
+// auto-generated string 292
+//=======================================
+
+// 任務で同行した時に、[br]
+// 足手まといになられても困る[wait]
+If we end up going on a mission together, you better not slow me down.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4D1B, 63)
+
+//=======================================
+// auto-generated string 293
+//=======================================
+
+// 俺がお前の実力をテストしてや[br]
+// るから、かかってこいよ、[br]
+// モヤシ[wait]
+I'll be the judge of your skills, so come at me, Beansprout!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4D79, 36)
+
+//=======================================
+// auto-generated string 294
+//=======================================
+
+// 僕は無益な戦いはしたく[br]
+// ありません[wait]
+I'm not going to fight a pointless battle.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4DAC, 71)
+
+//=======================================
+// auto-generated string 295
+//=======================================
+
+// うるせえ！ごちゃごちゃ[br]
+// 言ってないで、さっさと[br]
+// イノセンスを発動しろ！[wait]
+Again with the yapping! Stop your whining and invoke your Innocence already!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4E02, 23)
+
+//=======================================
+// auto-generated string 296
+//=======================================
+
+// イノセンス発動……？[wait]
+Invoke my Innocence...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4E54, 17)
+
+//=======================================
+// auto-generated string 297
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x4E67, 19)
+
+//=======================================
+// auto-generated string 298
+//=======================================
+
+#SETSIZE(208, 1)
+
+// イノセンス発動とは
+What is {Innocence Invocation}?
+
+#ENDMSG()
+
+#STARTMSG(0x4E80, 19)
+
+//=======================================
+// auto-generated string 299
+//=======================================
+
+// 戦闘の基本について
+About the basics of combat.
+
+#ENDMSG()
+
+#STARTMSG(0x4E99, 15)
+
+//=======================================
+// auto-generated string 300
+//=======================================
+
+// 必殺技について
+About special moves.
+
+#ENDMSG()
+
+#STARTMSG(0x4EBF, 17)
+
+//=======================================
+// auto-generated string 301
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x4ED2, 19)
+
+//=======================================
+// auto-generated string 302
+//=======================================
+
+#SETSIZE(208, 1)
+
+// イノセンス発動とは
+What is {Innocence Invocation}?
+
+#ENDMSG()
+
+#STARTMSG(0x4EEB, 19)
+
+//=======================================
+// auto-generated string 303
+//=======================================
+
+// 戦闘の基本について
+About the basics of combat.
+
+#ENDMSG()
+
+#STARTMSG(0x4F04, 15)
+
+//=======================================
+// auto-generated string 304
+//=======================================
+
+// 必殺技について
+About special moves.
+
+#ENDMSG()
+
+#STARTMSG(0x4F19, 15)
+
+//=======================================
+// auto-generated string 305
+//=======================================
+
+// もう知っている
+I got it already.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x4F56, 42)
+
+//=======================================
+// auto-generated string 306
+//=======================================
+
+// イノセンス発動って[br]
+// どういうことですか？[wait]
+What does {Innocence Invocation} mean?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4F8F, 60)
+
+//=======================================
+// auto-generated string 307
+//=======================================
+
+// チッ。そんなことも知らないで[br]
+// エクソシストのつもりなのか？[wait]
+Tsk. You're planning to become an Exorcist yet you don't even know that much?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x4FDA, 36)
+
+//=======================================
+// auto-generated string 308
+//=======================================
+
+// （今、『チッ』って[br]
+// 舌打ちした…）[wait]
+(He just tsk-ed me...)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x500D, 40)
+
+//=======================================
+// auto-generated string 309
+//=======================================
+
+// イノセンスは[br]
+// #glコマンドメニュー#whの[wait]
+Innocence can be found on the #glCOMMAND MENU#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x504F, 69)
+
+//=======================================
+// auto-generated string 310
+//=======================================
+
+// #glＩＮＮＯＣＥＮＣＥ（イノ[br]
+// センス）#whをタッチすることで[br]
+// 発動する[wait]
+Tap on #glINNOCENCE#wh to invoke it.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x509C, 58)
+
+//=======================================
+// auto-generated string 311
+//=======================================
+
+// 目の前にアクマが現れた時など[br]
+// イノセンスを発動することで[wait]
+When an Akuma appears before you, and you invoke your Innocence...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x50DE, 61)
+
+//=======================================
+// auto-generated string 312
+//=======================================
+
+// アクマとの戦い（アクション[br]
+// パート）を開始することがで[br]
+// きる[wait]
+...a battle with the Akuma (action part) will begin.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5147, 53)
+
+//=======================================
+// auto-generated string 313
+//=======================================
+
+// なるほど。[br]
+// ところで、イノセンスって何な[br]
+// んですか？[wait]
+I see...[br]
+By the way, what exactly is {Innocence}?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5184, 56)
+
+//=======================================
+// auto-generated string 314
+//=======================================
+
+// めんどくせぇ……細かい話は後[br]
+// でコムイにでも聞いておけ[wait]
+What a pain... Save the detailed explanation for Komui later.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x51F2, 34)
+
+//=======================================
+// auto-generated string 315
+//=======================================
+
+// 何？[br]
+// 戦い方がわからないだと！？[wait]
+Huh? So you don't know how to fight!?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x521C, 31)
+
+//=======================================
+// auto-generated string 316
+//=======================================
+
+// つくづく手が焼けるモヤシだな[wait]
+You really are a just a green beansprout.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x524A, 40)
+
+//=======================================
+// auto-generated string 317
+//=======================================
+
+// （……つくづくイヤな感じの人[br]
+// ですね）[wait]
+(...I definitely don't like this guy.)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5281, 58)
+
+//=======================================
+// auto-generated string 318
+//=======================================
+
+// #gl戦闘（アクションパート）#whでは、[br]
+// 次々と出現する敵を[wait]
+During a #glbattle (action part)#wh, the enemies will keep appearing in succession.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x52C3, 60)
+
+//=======================================
+// auto-generated string 319
+//=======================================
+
+// #gl対アクマ武器（タッチペン）#whで[br]
+// 破壊しなければならない[wait]
+You must destroy them with your #glAnti-Akuma Weapon (DS Stylus)#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5307, 67)
+
+//=======================================
+// auto-generated string 320
+//=======================================
+
+// 攻撃は敵を切るように、[br]
+// タッチペンをスライドさせるこ[br]
+// とでおこなう[wait]
+Perform attacks by sliding the stylus to slice through the enemy.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5352, 48)
+
+//=======================================
+// auto-generated string 321
+//=======================================
+
+// 描いた軌跡が攻撃に、[br]
+// 軌跡の長さが攻撃力になる[wait]
+Draw the trajectory of your attack.[br]
+The length of the line you draw acts as the attack power.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x538A, 79)
+
+//=======================================
+// auto-generated string 322
+//=======================================
+
+// また、敵の攻撃はタッチペンで[br]
+// 囲むことで#reインターセプト#whする[br]
+// こともできる[wait]
+Also, you can #reintercept#wh enemy attacks by drawing a big circle around them with the stylus.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x53E1, 73)
+
+//=======================================
+// auto-generated string 323
+//=======================================
+
+// うまく決まれば、[br]
+// 敵の動きをとめるだけじゃなく、[br]
+// その防御力も無効になる[wait]
+When done correctly, it not only stops the enemy's movements, but also lowers their defence.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5439, 69)
+
+//=======================================
+// auto-generated string 324
+//=======================================
+
+// つまり、インターセプトで[br]
+// 相手の動きを止めてから、[br]
+// 攻撃を叩き込めば[wait]
+In other words, once I've intercepted the opponent's movements, it's the perfect time to strike.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5486, 40)
+
+//=======================================
+// auto-generated string 325
+//=======================================
+
+// 効率良く敵を破壊できるって[br]
+// ことですね[wait]
+That way I can destroy enemies more efficiently, right?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x54BD, 52)
+
+//=======================================
+// auto-generated string 326
+//=======================================
+
+// そして、敵の攻撃が画面の下[br]
+// まで到達してしまうと…[wait]
+Lastly, if the enemy's attack reaches the bottom of the screen...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5500, 21)
+
+//=======================================
+// auto-generated string 327
+//=======================================
+
+// （む、無視…！？）[wait]
+(He... He ignored me!?)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5524, 61)
+
+//=======================================
+// auto-generated string 328
+//=======================================
+
+// お前が敵の攻撃によって[br]
+// ダメージを受けてしまったこと[br]
+// になる[wait]
+...you'll sustain damage from the attack.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5569, 65)
+
+//=======================================
+// auto-generated string 329
+//=======================================
+
+// ダメージを受けると[br]
+// 上画面の右側にあるＨＰゲージ[br]
+// が減っていき…[wait]
+The HP gauge on the right-hand side of the upper screen decreases when taking damage...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x55B2, 50)
+
+//=======================================
+// auto-generated string 330
+//=======================================
+
+// ＨＰゲージがゼロになったとき[br]
+// には…わかるよな？[wait]
+When the HP gauge falls to zero...[br]
+You can guess, can't you?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x55F3, 25)
+
+//=======================================
+// auto-generated string 331
+//=======================================
+
+// 敗北……ってことですね[wait]
+It means defeat... right?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x561B, 52)
+
+//=======================================
+// auto-generated string 332
+//=======================================
+
+// そうだ。逆に全ての敵を破壊[br]
+// すればお前の勝利となる[wait]
+Correct. On the other hand, if you destroy all the enemies, you win.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5657, 52)
+
+//=======================================
+// auto-generated string 333
+//=======================================
+
+// いきなり初任務でくたばらない[br]
+// よう、注意することだ[wait]
+Try not to get caught out and kick the bucket during your first mission.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x56E1, 50)
+
+//=======================================
+// auto-generated string 334
+//=======================================
+
+// はっ、いちいち手間がかかる奴[br]
+// だな。手短にいくぞ[wait]
+Hmph, it'd be a fool's errand to go through those one by one. I'll be brief.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5722, 69)
+
+//=======================================
+// auto-generated string 335
+//=======================================
+
+// 上画面の下側にゲージがある[br]
+// だろう。[br]
+// それが#glイノセンスゲージ#whだ[wait]
+There's a gauge at the bottom of the top screen. That's your #glINNOCENCE GAUGE#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x576F, 61)
+
+//=======================================
+// auto-generated string 336
+//=======================================
+
+// イノセンスゲージは、[br]
+// 敵にダメージを与えるたびに[br]
+// 増えていく[wait]
+The Innocence gauge increases every time you do damage to an enemy.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x57B4, 58)
+
+//=======================================
+// auto-generated string 337
+//=======================================
+
+// そして、ゲージが溜まると[br]
+// #re必殺技#whが使えるようになる[wait]
+Once the gauge is full, you'll be able to use a #respecial move#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x57F6, 71)
+
+//=======================================
+// auto-generated string 338
+//=======================================
+
+// 必殺技が使える状態になると[br]
+// 上画面にその#re発動印#whが表示され[br]
+// るから[wait]
+When a special move is ready to use, you'll see an #reinvocation sequence#wh on the top screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5857, 60)
+
+//=======================================
+// auto-generated string 339
+//=======================================
+
+// その発動印をタッチスクリーン[br]
+// に描くことで必殺技が発動する[wait]
+Activate your special moves by drawing the sequence on the touch screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x589B, 61)
+
+//=======================================
+// auto-generated string 340
+//=======================================
+
+// ただし、エクソシストによって[br]
+// 発動印とその効果は異なるか[br]
+// ら[wait]
+However, the invocation sequence and its effectiveness will vary depending on the Exorcist.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x58E0, 46)
+
+//=======================================
+// auto-generated string 341
+//=======================================
+
+// 状況に応じて必殺技を使い分[br]
+// けることが重要だ[wait]
+It's vital to consider the current situation and use your special moves properly.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5916, 81)
+
+//=======================================
+// auto-generated string 342
+//=======================================
+
+// さらに、一緒に戦っているエ[br]
+// クソシストがいれば、#re合体技#wh[br]
+// が使える場合もある[wait]
+Plus, if there's more than one Exorcist fighting at the same time, you might be able to use an #reallied technique#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x596F, 58)
+
+//=======================================
+// auto-generated string 343
+//=======================================
+
+// 仲間の情報も上画面に表示さ[br]
+// れているから、注意することだ[wait]
+It's important to note your comrade's information, which is also displayed on the top screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x59B8, 25)
+
+//=======================================
+// auto-generated string 344
+//=======================================
+
+// 神田、意外に親切ですね[wait]
+Kanda, you are surprisingly considerate.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x59E0, 38)
+
+//=======================================
+// auto-generated string 345
+//=======================================
+
+// チッ、俺は足手まといが嫌い[br]
+// なだけだ[wait]
+Tsk, I just hate being burdened.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5AA2, 42)
+
+//=======================================
+// auto-generated string 346
+//=======================================
+
+// どうした？[br]
+// やはり口だけの根性無しか……[wait]
+What's the matter? Are you all bark and no bite after all...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5ADB, 29)
+
+//=======================================
+// auto-generated string 347
+//=======================================
+
+// そんな言い方ないでしょう！[wait]
+You have such a rude way of speaking!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5B07, 69)
+
+//=======================================
+// auto-generated string 348
+//=======================================
+
+// 口だけじゃないってことを証明[br]
+// したかったら、早く実力を[br]
+// 見せてみろ！[wait]
+If you want to prove that you're not all talk, hurry up and show me your true strength!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5BC4, 30)
+
+//=======================================
+// auto-generated string 349
+//=======================================
+
+// もう一度[br]
+// 話を聞きたいのか？[wait]
+You want me to go over everything again?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5BF4, 19)
+
+//=======================================
+// auto-generated string 350
+//=======================================
+
+#SETSIZE(160, 1)
+
+// もう一度聞く？<W6>
+//Listen to the explanation again?<W6>
+Hear the explanation again?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x5C09, 5)
+
+//=======================================
+// auto-generated string 351
+//=======================================
+
+#SETSIZE(208, 1)
+
+// はい
+Yes.
+
+#ENDMSG()
+
+#STARTMSG(0x5C14, 7)
+
+//=======================================
+// auto-generated string 352
+//=======================================
+
+// いいえ
+No.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x5C4A, 42)
+
+//=======================================
+// auto-generated string 353
+//=======================================
+
+// どうした？[br]
+// やはり口だけの根性無しか……[wait]
+What's the matter? Are you all bark and no bite after all...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5C83, 29)
+
+//=======================================
+// auto-generated string 354
+//=======================================
+
+// そんな言い方ないでしょう！[wait]
+You have such a rude way of speaking!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5CA8, 69)
+
+//=======================================
+// auto-generated string 355
+//=======================================
+
+// 口だけじゃないってことを証明[br]
+// したかったら、早く実力を[br]
+// 見せてみろ！[wait]
+If you want to prove that you're not all talk, hurry up and show me your true strength!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5D19, 19)
+
+//=======================================
+// auto-generated string 356
+//=======================================
+
+// じゃあな、モヤシ[wait]
+Later, Beansprout.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5D3B, 15)
+
+//=======================================
+// auto-generated string 357
+//=======================================
+
+// アレンです！[wait]
+It's Allen!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5DB6, 40)
+
+//=======================================
+// auto-generated string 358
+//=======================================
+
+// 話してわかる相手じゃ[br]
+// ないみたいですね[wait]
+It seems like you're not going to listen if I only use words.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5DF2, 32)
+
+//=======================================
+// auto-generated string 359
+//=======================================
+
+// やっとやる気を出したよう[br]
+// だな[wait]
+So you're finally motivated.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5E1A, 34)
+
+//=======================================
+// auto-generated string 360
+//=======================================
+
+// お前のイノセンスは[br]
+// 寄生型か……[wait]
+Your Innocence is a parasite type...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5E44, 13)
+
+//=======================================
+// auto-generated string 361
+//=======================================
+
+// 寄生型…？[wait]
+Parasite type...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5E60, 46)
+
+//=======================================
+// auto-generated string 362
+//=======================================
+
+// ならば、俺もこの『六幻』の力[br]
+// を見せてやろう[wait]
+Then I'll show you the power of my {Mugen}.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5EFB, 7)
+
+//=======================================
+// auto-generated string 363
+//=======================================
+
+// も─[wait]
+Jeez--
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5F0A, 25)
+
+//=======================================
+// auto-generated string 364
+//=======================================
+
+// 神田、なにしてるのよ！[wait]
+Kanda, what are you doing?!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5F2B, 65)
+
+//=======================================
+// auto-generated string 365
+//=======================================
+
+// アレンくんは来たばっかり[br]
+// なんだから、そんな事しちゃ[br]
+// だめでしょ[wait]
+Allen just got here, so don't be so rough with him!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5F7B, 7)
+
+//=======================================
+// auto-generated string 366
+//=======================================
+
+// ……[wait]
+......
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5F91, 21)
+
+//=======================================
+// auto-generated string 367
+//=======================================
+
+// ほら、アレンくんも[wait]
+You too, Allen...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5FB5, 7)
+
+//=======================================
+// auto-generated string 368
+//=======================================
+
+// はい[wait]
+Yes?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x5FC4, 42)
+
+//=======================================
+// auto-generated string 369
+//=======================================
+
+// 私はもう行くけど、[br]
+// ケンカはダメだからね[wait]
+I've got to get going, but just remember that in-fighting will lead nowhere!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6067, 30)
+
+//=======================================
+// auto-generated string 370
+//=======================================
+
+// アレン・ウォーカー[br]
+// じゃな？[wait]
+Are you Allen Walker?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x608D, 17)
+
+//=======================================
+// auto-generated string 371
+//=======================================
+
+// 話は聞いておる[wait]
+I'm here to answer your questions.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x60A6, 15)
+
+//=======================================
+// auto-generated string 372
+//=======================================
+
+// はじめまして[wait]
+Nice to meet you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x60BD, 46)
+
+//=======================================
+// auto-generated string 373
+//=======================================
+
+// わしからは、#glシステム#whに[br]
+// ついて教えよう[wait]
+Let me teach you about the #glSYSTEM#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x60F3, 31)
+
+//=======================================
+// auto-generated string 374
+//=======================================
+
+// どんなことが聞きたいのじゃ？[wait]
+What would you like to know?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x614D, 19)
+
+//=======================================
+// auto-generated string 375
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こうか？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x6162, 19)
+
+//=======================================
+// auto-generated string 376
+//=======================================
+
+#SETSIZE(208, 1)
+
+// ≪システム≫とは？
+What is the [<]SYSTEM[>]?
+
+#ENDMSG()
+
+#STARTMSG(0x617B, 19)
+
+//=======================================
+// auto-generated string 377
+//=======================================
+
+// セーブ画面について
+About the save menu.
+
+#ENDMSG()
+
+#STARTMSG(0x6194, 21)
+
+//=======================================
+// auto-generated string 378
+//=======================================
+
+// サウンド設定について
+About sound settings.
+
+#ENDMSG()
+
+#STARTMSG(0x61C0, 19)
+
+//=======================================
+// auto-generated string 379
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こうか？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x61D5, 21)
+
+//=======================================
+// auto-generated string 380
+//=======================================
+
+#SETSIZE(208, 1)
+
+// #glシステム#whとは？
+What is the #glSYSTEM#wh?
+
+#ENDMSG()
+
+#STARTMSG(0x61F0, 19)
+
+//=======================================
+// auto-generated string 381
+//=======================================
+
+// セーブ画面について
+About the save menu.
+
+#ENDMSG()
+
+#STARTMSG(0x6209, 21)
+
+//=======================================
+// auto-generated string 382
+//=======================================
+
+// サウンド設定について
+About sound settings.
+
+#ENDMSG()
+
+#STARTMSG(0x6224, 9)
+
+//=======================================
+// auto-generated string 383
+//=======================================
+
+// 聞かない
+Nevermind.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x625B, 73)
+
+//=======================================
+// auto-generated string 384
+//=======================================
+
+// #glシステム#whとは、[br]
+// これまでのゲームのデータを[br]
+// 保存（セーブ）したり、[wait]
+The #glSYSTEM#wh is where game data (save files) are stored.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x62AC, 40)
+
+//=======================================
+// auto-generated string 385
+//=======================================
+
+// 音量の調整の設定を行う[br]
+// 機能のことじゃ[wait]
+It also has options to adjust the volume settings.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x62DC, 89)
+
+//=======================================
+// auto-generated string 386
+//=======================================
+
+// #glシステム#whを使うには、下画面の[br]
+// 左下にある#glＳＹＳＴＥＭボタン#wh[br]
+// を選択すればよい[wait]
+To use the menu, you need to select the #glSYSTEM#wh button in the lower left corner of the screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x634F, 65)
+
+//=======================================
+// auto-generated string 387
+//=======================================
+
+// メニューが表示されたら、[br]
+// 『セーブ』を選択すると、[br]
+// セーブ画面に[wait]
+When the menu is displayed, choose {SAVE} to view the save screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x63AA, 65)
+
+//=======================================
+// auto-generated string 388
+//=======================================
+
+// 『サウンド』を選択すると、[br]
+// サウンド設定画面に[br]
+// 切り替わるのじゃ[wait]
+If you select {SOUND}, you can switch to the sound setting menu.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x63F3, 59)
+
+//=======================================
+// auto-generated string 389
+//=======================================
+
+// 元の画面に戻りたければ[br]
+// 『ゲームに戻る』を選択すれば[br]
+// よい[wait]
+If you want to go back to the previous screen, pick {RETURN TO GAME}.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6436, 63)
+
+//=======================================
+// auto-generated string 390
+//=======================================
+
+// 『タイトルに戻る』をタッチ[br]
+// するとタイトル画面に[br]
+// 戻ってしまう[wait]
+Touch {RETURN TO TITLE} to return to the title screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x647D, 79)
+
+//=======================================
+// auto-generated string 391
+//=======================================
+
+// セーブせずに戻ってしまうと[br]
+// そこまでのデータは消えて[br]
+// しまうので、気をつけてな[wait]
+If you return without saving, any progress since your last save will disappear, so be careful.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x652A, 87)
+
+//=======================================
+// auto-generated string 392
+//=======================================
+
+// セーブ画面では、ファイルに[br]
+// タッチすることで現在の状態を[br]
+// セーブすることができるんじゃ[wait]
+On the save screen, you can save your current progress by touching a file.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6589, 75)
+
+//=======================================
+// auto-generated string 393
+//=======================================
+
+// セーブをしないで電源を切って[br]
+// しまったり、ゲームオーバーに[br]
+// なってしまうと[wait]
+If you turn the power off without saving, or get a game over screen...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x65DC, 85)
+
+//=======================================
+// auto-generated string 394
+//=======================================
+
+// そこまでの任務がやり直しに[br]
+// なってしまうから、セーブは[br]
+// こまめに行うことが大切じゃな[wait]
+...you'll have to replay wherever you were up to in the mission before that point, so it's important to save frequently.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6639, 85)
+
+//=======================================
+// auto-generated string 395
+//=======================================
+
+// ファイルは３つまで保存できる[br]
+// から、大事なデータを上書き[br]
+// しないように注意するのだぞ[wait]
+You can save up to three files, so be careful not to overwrite any important data.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x66EC, 52)
+
+//=======================================
+// auto-generated string 396
+//=======================================
+
+// サウンド設定画面では[br]
+// ゲーム中の音量を調整できるぞ[wait]
+You can adjust the game's volume in the sound settings menu.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6728, 56)
+
+//=======================================
+// auto-generated string 397
+//=======================================
+
+// ＢＧＭ、ＳＥ、ＶＯＩＣＥ毎に[br]
+// 調整バーがついているから[wait]
+There are individual tabs for the BGM, SE and VOICE.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6768, 50)
+
+//=======================================
+// auto-generated string 398
+//=======================================
+
+// タッチペンで左右にスライド[br]
+// させて調整するのじゃ[wait]
+Slide the DS Stylus left or right to adjust them.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x683A, 7)
+
+//=======================================
+// auto-generated string 399
+//=======================================
+
+// うむ[wait]
+Hm...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6849, 44)
+
+//=======================================
+// auto-generated string 400
+//=======================================
+
+// もうじき、室長から[br]
+// 呼び出しがあるじゃろう[wait]
+You should be summoned by the Chief shortly.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x687D, 48)
+
+//=======================================
+// auto-generated string 401
+//=======================================
+
+// その時は、もう一度この司令室[br]
+// に来るがよかろう[wait]
+At that time, you will probably have to return to this command room.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x68B5, 52)
+
+//=======================================
+// auto-generated string 402
+//=======================================
+
+// もう一度、#glシステム#whに[br]
+// ついて、聞きたいのか？[wait]
+Would you like to hear about the #glSYSTEM#wh again?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x68FB, 19)
+
+//=======================================
+// auto-generated string 403
+//=======================================
+
+#SETSIZE(160, 1)
+
+// もう一度聞く？<W6>
+//Listen to the explanation again?<W6>
+Hear the explanation again?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x6910, 5)
+
+//=======================================
+// auto-generated string 404
+//=======================================
+
+#SETSIZE(208, 1)
+
+// 聞く
+Listen again.
+
+#ENDMSG()
+
+#STARTMSG(0x691B, 9)
+
+//=======================================
+// auto-generated string 405
+//=======================================
+
+// 聞かない
+No, thank you.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x6965, 36)
+
+//=======================================
+// auto-generated string 406
+//=======================================
+
+// ん？まだ室長から[br]
+// 連絡はないのか？[wait]
+Hm? You still haven't been summoned by the Chief?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6991, 44)
+
+//=======================================
+// auto-generated string 407
+//=======================================
+
+// もうじき、室長から[br]
+// 呼び出しがあるじゃろう[wait]
+You should be hearing from him shortly.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x69C5, 48)
+
+//=======================================
+// auto-generated string 408
+//=======================================
+
+// その時は、もう一度[br]
+// この司令室に来るがよかろう[wait]
+At that time, you'll have to return to this command room.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6A5A, 21)
+
+//=======================================
+// auto-generated string 409
+//=======================================
+
+// あれ、見ない顔だね[wait]
+Oh, I haven't seen your face around here before.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6A77, 52)
+
+//=======================================
+// auto-generated string 410
+//=======================================
+
+// もしかして、きみが新人の[br]
+// アレン・ウォーカーかい？[wait]
+By any chance, are you the new recruit, Allen Walker?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6AB3, 7)
+
+//=======================================
+// auto-generated string 411
+//=======================================
+
+// はい[wait]
+That's me.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6AC2, 54)
+
+//=======================================
+// auto-generated string 412
+//=======================================
+
+// 今日から『黒の教団』でお世話[br]
+// になります、アレンです[wait]
+Starting from today, I'll be here to serve the Black Order.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6B00, 23)
+
+//=======================================
+// auto-generated string 413
+//=======================================
+
+// よろしくお願いします[wait]
+I hope I can be of use.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6B1F, 42)
+
+//=======================================
+// auto-generated string 414
+//=======================================
+
+// オレは科学班所属の[br]
+// #piジョニー・ギル#wh[wait]
+I'm a member of the Science Division, #piJohnny Gill#wh.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6B51, 63)
+
+//=======================================
+// auto-generated string 415
+//=======================================
+
+// ところで、きみが連れているの[br]
+// はティムキャンピー[br]
+// じゃないか？[wait]
+Incidentally, is that Timcanpy with you?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6B9F, 75)
+
+//=======================================
+// auto-generated string 416
+//=======================================
+
+// ええ、師匠からの預かり物なん[br]
+// ですが、よく迷子になるんで[br]
+// 困ってるんです…[wait]
+Yes, he was entrusted to me by my master, but often causes trouble by wandering off and getting lost...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6BF2, 71)
+
+//=======================================
+// auto-generated string 417
+//=======================================
+
+// その様子じゃ、[br]
+// ティムキャンピーのことを良く[br]
+// わかっていないみたいだね[wait]
+It seems that you don't fully realise Timcanpy's capabilities.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6C41, 29)
+
+//=======================================
+// auto-generated string 418
+//=======================================
+
+// オレがちょっと教えてやるよ[wait]
+I'll tell you a bit about him.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6CA0, 17)
+
+//=======================================
+// auto-generated string 419
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x6CB3, 23)
+
+//=======================================
+// auto-generated string 420
+//=======================================
+
+#SETSIZE(208, 1)
+
+// ティムキャンピーとは？
+What is Timcanpy?
+
+#ENDMSG()
+
+#STARTMSG(0x6CD0, 27)
+
+//=======================================
+// auto-generated string 421
+//=======================================
+
+// ティムキャンピーの呼出し方
+How to summon Timcanpy.
+
+#ENDMSG()
+
+#STARTMSG(0x6CF1, 25)
+
+//=======================================
+// auto-generated string 422
+//=======================================
+
+// ティムキャンピーの使い方
+How to handle Timcanpy.
+
+#ENDMSG()
+
+#STARTMSG(0x6D21, 17)
+
+//=======================================
+// auto-generated string 423
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x6D34, 23)
+
+//=======================================
+// auto-generated string 424
+//=======================================
+
+#SETSIZE(208, 1)
+
+// ティムキャンピーとは？
+What is Timcanpy?
+
+#ENDMSG()
+
+#STARTMSG(0x6D51, 27)
+
+//=======================================
+// auto-generated string 425
+//=======================================
+
+// ティムキャンピーの呼出し方
+How to summon Timcanpy.
+
+#ENDMSG()
+
+#STARTMSG(0x6D72, 25)
+
+//=======================================
+// auto-generated string 426
+//=======================================
+
+// ティムキャンピーの使い方
+How to handle Timcanpy.
+
+#ENDMSG()
+
+#STARTMSG(0x6D91, 9)
+
+//=======================================
+// auto-generated string 427
+//=======================================
+
+// 聞かない
+Nevermind.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x6DAE, 50)
+
+//=======================================
+// auto-generated string 428
+//=======================================
+
+// #glティムキャンピー#whは、[br]
+// きみも知っての通り…[wait]
+#glTimcanpy#wh is, as you know...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6DE8, 50)
+
+//=======================================
+// auto-generated string 429
+//=======================================
+
+// きみのまわりをいつも[br]
+// 飛んでいるゴーレムのことさ[wait]
+...the golem that's always flying around you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6E29, 21)
+
+//=======================================
+// auto-generated string 430
+//=======================================
+
+// ゴーレム…ですか？[wait]
+He's a... golem?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6E46, 54)
+
+//=======================================
+// auto-generated string 431
+//=======================================
+
+// #re教団のゴーレム#whは、ただ飛んで[br]
+// いるだけじゃない[wait]
+#reThe Order's Golems#wh don't just fly about.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6E84, 63)
+
+//=======================================
+// auto-generated string 432
+//=======================================
+
+// エクソシストの任務に[br]
+// 役立つ、いろいろな機能が[br]
+// ついているんだ[wait]
+They have various features that are useful during Exorcist missions.  
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6ED2, 29)
+
+//=======================================
+// auto-generated string 433
+//=======================================
+
+// どんな機能があるんですか？[wait]
+What kind of features are there?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6EFE, 54)
+
+//=======================================
+// auto-generated string 434
+//=======================================
+
+// 例えば、遠く離れた仲間と[br]
+// 通信で話をすることができる[wait]
+For example, you can send word to your companions even if they're far away, by talking into your golem.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6F3C, 63)
+
+//=======================================
+// auto-generated string 435
+//=======================================
+
+// これはティムキャンピーには[br]
+// 付いていなかった機能[br]
+// なんだが……[wait]
+This is a feature that didn't come with Timcanpy...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x6F83, 75)
+
+//=======================================
+// auto-generated string 436
+//=======================================
+
+// 今回、きみのために機能を[br]
+// 追加しておいたから、[br]
+// 上手く任務に活用してくれよ[wait]
+So, I've added some new functions for you. Please make good use of them during your missions.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7004, 62)
+
+//=======================================
+// auto-generated string 437
+//=======================================
+
+// ティムキャンピーの呼び出しは、[br]
+// 下画面の左上に浮かんでいる…[wait]
+Timcanpy's summon can be found hovering in the top left corner of the bottom screen...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x704A, 50)
+
+//=======================================
+// auto-generated string 438
+//=======================================
+
+// #glティムキャンピー#whを[br]
+// タッチするだけでＯＫだ[wait]
+Unlike the command menu, you only need to give #glTimcanpy#wh a single tap.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x70AC, 44)
+
+//=======================================
+// auto-generated string 439
+//=======================================
+
+// 呼び出しても何もしてくれない[br]
+// んですが……[wait]
+He doesn't do anything when I call him...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x70E0, 45)
+
+//=======================================
+// auto-generated string 440
+//=======================================
+
+// 確かに、[br]
+// 普段はただ返事をするだけ[br]
+// だが……[wait]
+True, that's usually the normal response...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7115, 52)
+
+//=======================================
+// auto-generated string 441
+//=======================================
+
+// 通信できる相手がいれば、[br]
+// その相手と話をしたり……[wait]
+But if someone else happens to be calling, you'll be able to talk to them.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7151, 63)
+
+//=======================================
+// auto-generated string 442
+//=======================================
+
+// 場合によっては、[br]
+// 何かお使いを頼むこともできる[br]
+// かもしれないぞ[wait]
+In some cases, you might be able to ask for help-- for example, having them run an errand.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x719F, 51)
+
+//=======================================
+// auto-generated string 443
+//=======================================
+
+// へぇ～、[br]
+// お前本当にそんなことしてくれ[br]
+// るのかい？[wait]
+Impressive![br]
+I didn't know you could add such a useful feature...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x71E1, 7)
+
+//=======================================
+// auto-generated string 444
+//=======================================
+
+// ♪～[wait]
+[note]~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x721F, 13)
+
+//=======================================
+// auto-generated string 445
+//=======================================
+
+// ……そうだ[wait]
+...Ah, right.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7234, 75)
+
+//=======================================
+// auto-generated string 446
+//=======================================
+
+// ティムキャンピーは、きみの[br]
+// 師匠のクロス・マリアン元帥が[br]
+// 造ったものだよな[wait]
+Timcanpy was made by your master, General Cross.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7287, 81)
+
+//=======================================
+// auto-generated string 447
+//=======================================
+
+// あの人が造ったものは特別だか[br]
+// ら、俺たちにもわからないとこ[br]
+// ろがいっぱいあるんだ[wait]
+What he created is so special, even we aren't able to fully understand it.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x72E0, 71)
+
+//=======================================
+// auto-generated string 448
+//=======================================
+
+// もし困ったことがあったら、[br]
+// とりあえず呼んでみると[br]
+// いいかもしれないぜ[wait]
+Until we know more, if Timcanpy starts giving you any trouble, it might be a good idea to call us.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x739F, 9)
+
+//=======================================
+// auto-generated string 449
+//=======================================
+
+// おっと[wait]
+Oops--
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x73B0, 55)
+
+//=======================================
+// auto-generated string 450
+//=======================================
+
+// すまないけど、[br]
+// ちょっとリーバー班長に[br]
+// 呼ばれてるんだ[wait]
+Sorry to leave it there, but it seems that Chief Reever is calling for me.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x73EF, 38)
+
+//=======================================
+// auto-generated string 451
+//=======================================
+
+// 普段はこの辺を[br]
+// ウロウロしているから[wait]
+I'm normally just wandering around here, so...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x741D, 25)
+
+//=======================================
+// auto-generated string 452
+//=======================================
+
+// 気軽に声をかけてくれよ[wait]
+...feel free to give me a shout!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7445, 54)
+
+//=======================================
+// auto-generated string 453
+//=======================================
+
+// ありがとうございます。[br]
+// またいろいろと教えてください[wait]
+Thank you. I hope you can teach me more next time.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7483, 27)
+
+//=======================================
+// auto-generated string 454
+//=======================================
+
+// そんなこと、お安い御用さ[wait]
+That'd be no problem.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x74A6, 25)
+
+//=======================================
+// auto-generated string 455
+//=======================================
+
+// ──じゃあな、アレン！[wait]
+Until then, Allen!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x751C, 15)
+
+//=======================================
+// auto-generated string 456
+//=======================================
+
+// よお、アレン[wait]
+Oh, Allen!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7533, 40)
+
+//=======================================
+// auto-generated string 457
+//=======================================
+
+// ティムキャンピーは[br]
+// 役に立ってるかい？[wait]
+Has Timcanpy been of use?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7563, 62)
+
+//=======================================
+// auto-generated string 458
+//=======================================
+
+// どうした？#glティムキャンピー#whの[br]
+// 説明をもう一度聞くのか？[wait]
+What's up? Would you like me to go over the info about #glTimcanpy#wh?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x75B3, 19)
+
+//=======================================
+// auto-generated string 459
+//=======================================
+
+#SETSIZE(160, 1)
+
+// もう一度聞く？<W6>
+//Listen to the explanation again?<W6>
+Hear the explanation again?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x75C8, 5)
+
+//=======================================
+// auto-generated string 460
+//=======================================
+
+#SETSIZE(208, 1)
+
+// はい
+Yes.
+
+#ENDMSG()
+
+#STARTMSG(0x75D3, 7)
+
+//=======================================
+// auto-generated string 461
+//=======================================
+
+// いいえ
+No.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x75E7, 25)
+
+//=======================================
+// auto-generated string 462
+//=======================================
+
+// ──じゃあな、アレン！[wait]
+Then until next time, Allen!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7617, 15)
+
+//=======================================
+// auto-generated string 463
+//=======================================
+
+// よう、アレン[wait]
+Hiya, Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x762E, 36)
+
+//=======================================
+// auto-generated string 464
+//=======================================
+
+// そういえば、[br]
+// リナリーが探してたぞ[wait]
+Come to think of it, Lenalee was looking for you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x765A, 56)
+
+//=======================================
+// auto-generated string 465
+//=======================================
+
+// ティムキャンピーの通信機能[br]
+// で確認してみたらどうだい？[wait]
+Why not check Timcampy's communication function?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7885, 9)
+
+//=======================================
+// auto-generated string 466
+//=======================================
+
+// ～～♪[wait]
+~~[note]
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x78BD, 9)
+
+//=======================================
+// auto-generated string 467
+//=======================================
+
+// ……？[wait]
+...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x78CE, 34)
+
+//=======================================
+// auto-generated string 468
+//=======================================
+
+// どうしたんだ、[br]
+// ティムキャンピー[wait]
+What's wrong, Timcanpy? 
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x78F8, 29)
+
+//=======================================
+// auto-generated string 469
+//=======================================
+
+// [br]
+// 　　　　　#cy＜通信＞#wh[br]
+// [wait]
+[br]
+            #cy[<]Incoming Transmission[>]#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x791D, 33)
+
+//=======================================
+// auto-generated string 470
+//=======================================
+
+// #cy……もしもし、アレンくん#wh[wait]
+#cy...Hello, Allen?#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7946, 31)
+
+//=======================================
+// auto-generated string 471
+//=======================================
+
+// #cy私の声は、聞こえてる？#wh[wait]
+#cyDo you read me?#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7974, 46)
+
+//=======================================
+// auto-generated string 472
+//=======================================
+
+// 聞こえますよ、リナリー。[br]
+// どうしたんですか？[wait]
+Loud and clear, Lenalee. What's the matter?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x79AA, 46)
+
+//=======================================
+// auto-generated string 473
+//=======================================
+
+// #cy今、室長から呼び出しの[br]
+// 連絡があったわ#wh[wait]
+#cyJust now, we got a call from the Chief Officer.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x79E0, 35)
+
+//=======================================
+// auto-generated string 474
+//=======================================
+
+// #cy一緒に室長室へ行きましょう#wh[wait]
+#cyLet's go and see him together.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7A0B, 15)
+
+//=======================================
+// auto-generated string 475
+//=======================================
+
+// わかりました[wait]
+Copy that.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7A22, 52)
+
+//=======================================
+// auto-generated string 476
+//=======================================
+
+// #cy室長室には司令室から[br]
+// 移動することができるわ#wh[wait]
+#cyWe're meeting him in the command room, so we need to head there first.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7A5E, 48)
+
+//=======================================
+// auto-generated string 477
+//=======================================
+
+// #cyすぐに私も行くから、[br]
+// 司令室で待っていて#wh[wait]
+#cyI'll be with you shortly, so wait for me there.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7A96, 38)
+
+//=======================================
+// auto-generated string 478
+//=======================================
+
+// 司令室で待っていれば、[br]
+// いいんですね[wait]
+Sounds good. I'll be waiting for you in the command room, then!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7AC4, 62)
+
+//=======================================
+// auto-generated string 479
+//=======================================
+
+// #cyそれじゃ、『同行者』とその[br]
+// 動かし方について説明するね#wh[wait]
+#cyOh, but first I should explain about {companions} and how to move them.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7B3D, 17)
+
+//=======================================
+// auto-generated string 480
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x7B50, 13)
+
+//=======================================
+// auto-generated string 481
+//=======================================
+
+#SETSIZE(208, 1)
+
+// 同行者とは？
+What are companions?
+
+#ENDMSG()
+
+#STARTMSG(0x7B63, 17)
+
+//=======================================
+// auto-generated string 482
+//=======================================
+
+// 同行者の動かし方
+How to move a companion.
+
+#ENDMSG()
+
+#STARTMSG(0x7B7A, 13)
+
+//=======================================
+// auto-generated string 483
+//=======================================
+
+// 同行者の役割
+The role of the companion.
+
+#ENDMSG()
+
+#STARTMSG(0x7B9E, 17)
+
+//=======================================
+// auto-generated string 484
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x7BB1, 13)
+
+//=======================================
+// auto-generated string 485
+//=======================================
+
+#SETSIZE(208, 1)
+
+// 同行者とは？
+What are companions?
+
+#ENDMSG()
+
+#STARTMSG(0x7BC4, 17)
+
+//=======================================
+// auto-generated string 486
+//=======================================
+
+// 同行者の動かし方
+How to move a companion.
+
+#ENDMSG()
+
+#STARTMSG(0x7BDB, 13)
+
+//=======================================
+// auto-generated string 487
+//=======================================
+
+// 同行者の役割
+The role of the companion.
+
+#ENDMSG()
+
+#STARTMSG(0x7BEE, 9)
+
+//=======================================
+// auto-generated string 488
+//=======================================
+
+// 聞かない
+Nevermind.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x7C25, 87)
+
+//=======================================
+// auto-generated string 489
+//=======================================
+
+// #cy同行者っていうのは、任務の時[br]
+// にアレンくんと一緒に行動する[br]
+// エクソシストのことよ#wh[wait]
+#cyYour companions are people who accompany you during Exorcist missions.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7C84, 77)
+
+//=======================================
+// auto-generated string 490
+//=======================================
+
+// #cy多くの場合、エクソシストは[br]
+// ２人１組で任務に当たること[br]
+// になっているの#wh[wait]
+#cyIn most cases, Exorcists are placed into pairs before heading out on missions.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7CD9, 79)
+
+//=======================================
+// auto-generated string 491
+//=======================================
+
+// #cy２人で協力し合うことで、１人[br]
+// では難しい任務でも解決する[br]
+// ことができるわ#wh[wait]
+#cyBy cooperating with each other, one can even resolve difficult cases.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7D37, 68)
+
+//=======================================
+// auto-generated string 492
+//=======================================
+
+// ところで、一緒に行動する同行[br]
+// 者は、どうやって決まるんです[br]
+// か？#wh[wait]
+How do they choose who gets paired up together?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7D8A, 62)
+
+//=======================================
+// auto-generated string 493
+//=======================================
+
+// #cyそれぞれの任務が始まる時に、[br]
+// 室長と決めることになるわ#wh[wait]
+#cyWhen each mission starts, the Chief Officer decides.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7DD0, 60)
+
+//=======================================
+// auto-generated string 494
+//=======================================
+
+// #cy今は任務で各地に出向いている[br]
+// エクソシストの仲間とも#wh[wait]
+#cyNowadays, everyone is grouped up before they leave on any Exorcist missions.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7E14, 52)
+
+//=======================================
+// auto-generated string 495
+//=======================================
+
+// #cy一緒に任務につくことがある[br]
+// かもしれないわね#wh[wait]
+#cyYou might have a task to fulfil together.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7E92, 55)
+
+//=======================================
+// auto-generated string 496
+//=======================================
+
+// #cy同行者の動かし方は、[br]
+// アレンくんの場合とほぼ一緒よ[wait]
+#cyMoving companions is almost identical to travelling to places yourself.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7EE3, 62)
+
+//=======================================
+// auto-generated string 497
+//=======================================
+
+// #cyマップ上の同行者をタッチ[br]
+// することで動かすことがで[br]
+// きるわ[wait]
+#cyYou can move them by touching your companion on the map.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7F29, 76)
+
+//=======================================
+// auto-generated string 498
+//=======================================
+
+// #cy──ほら、今はアレンくん[br]
+// だけじゃなくて、私もマップ上[br]
+// にいるでしょう？[wait]
+#cy--See? It's not just Allen on the map now, because I'm there too.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7F84, 7)
+
+//=======================================
+// auto-generated string 499
+//=======================================
+
+// はい[wait]
+I see!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7F9A, 66)
+
+//=======================================
+// auto-generated string 500
+//=======================================
+
+// #cyこの状態で私をタッチすれ[br]
+// ば、私を移動させることができ[br]
+// るのよ[wait]
+#cyIf you tap on my sprite, you can move me around.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x7FE4, 43)
+
+//=======================================
+// auto-generated string 501
+//=======================================
+
+// #cyコマンドを実行する場合も[br]
+// ほとんど一緒[wait]
+#cyUsing a companion's command menu is also similar to the normal one.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8040, 56)
+
+//=======================================
+// auto-generated string 502
+//=======================================
+
+// #cyタッチして[br]
+// #glコマンドメニュー#cyを呼び出した[br]
+// ら…[wait]
+#cyTouch and call the #glCOMMAND MENU#cy...#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x80A9, 41)
+
+//=======================================
+// auto-generated string 503
+//=======================================
+
+// #cy誰かと話したいときは[br]
+// #glＴＡＬＫ#wh[wait]
+#cyWhen you'd like to speak to someone, use #glTALK#cy.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8103, 45)
+
+//=======================================
+// auto-generated string 504
+//=======================================
+
+// #cyどこかを調べるときは[br]
+// #glＳＥＡＲＣＨ#wh[wait]
+#cyTo examine a location, use #glSEARCH#cy.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8161, 55)
+
+//=======================================
+// auto-generated string 505
+//=======================================
+
+// #cyイノセンスを発動するなら[br]
+// #glＩＮＮＯＣＥＮＣＥ#wh[wait]
+#cyAnd you can invoke their #glINNOCENCE#cy.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x81B2, 53)
+
+//=======================================
+// auto-generated string 506
+//=======================================
+
+// #cyキャンセルするときは[br]
+// #glモード切り替えボタン#wh[wait]
+#cyTo cancel your action, use the #glMODE toggle button#cy.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x81EF, 67)
+
+//=======================================
+// auto-generated string 507
+//=======================================
+
+// #cy──のそれぞれをタッチする[br]
+// ことで、コマンドを実行できる[br]
+// わ#wh[wait]
+#cyAny time you touch the command menu, you can swap between them.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x823A, 77)
+
+//=======================================
+// auto-generated string 508
+//=======================================
+
+// #cyでも、アイテムだけは[br]
+// アレンくんしか使うことが[br]
+// できないから注意してね#wh[wait]
+#cyBut items can only be used by Allen, so keep that in mind.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8459, 89)
+
+//=======================================
+// auto-generated string 509
+//=======================================
+
+// #cy人に話しかける場合でも、[br]
+// 誰が話しかけるかによって、[br]
+// 相手の反応が変わる事もあるわ#wh[wait]
+#cyWhen you're talking to someone, their responses may change depending on who's asking.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x84BA, 46)
+
+//=======================================
+// auto-generated string 510
+//=======================================
+
+// #cyもちろん、[br]
+// 調べるについても同じことよ#wh[wait]
+#cyOf course, the same can be said for when you're examining locations.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x84F0, 66)
+
+//=======================================
+// auto-generated string 511
+//=======================================
+
+// #cyだから、任務で行き詰ったとき[br]
+// は、別の人が行動することで、#wh[wait]
+#cySo, when you're stuck on a mission, try swapping characters.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x853A, 46)
+
+//=======================================
+// auto-generated string 512
+//=======================================
+
+// #cy道が開けることがあるかも[br]
+// しれないわね#wh[wait]
+#cyThen you might be able to move forward.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x85E0, 50)
+
+//=======================================
+// auto-generated string 513
+//=======================================
+
+// #cy……これで同行者のことは[br]
+// わかったかしら？#wh[wait]
+#cy...Do you understand how companions work now?#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x861A, 7)
+
+//=======================================
+// auto-generated string 514
+//=======================================
+
+// はい[wait]
+Yes.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8629, 40)
+
+//=======================================
+// auto-generated string 515
+//=======================================
+
+// #cyじゃあ、司令室で[br]
+// 合流しましょう#wh[wait]
+#cyThen let's reconvene in the command room!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8659, 63)
+
+//=======================================
+// auto-generated string 516
+//=======================================
+
+// #cyもし困ったら、もう一度[br]
+// ≪ティムキャンピー≫で[br]
+// 呼んでね#wh[wait]
+#cyIf in doubt, please call me again through [<]Timcanpy[>].#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x86C7, 33)
+
+//=======================================
+// auto-generated string 517
+//=======================================
+
+// #cy……もしもし、アレンくん#wh[wait]
+#cy...Hello, Allen?#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x86F0, 54)
+
+//=======================================
+// auto-generated string 518
+//=======================================
+
+// #cy同行者の動かし方を[br]
+// もう一度聞きたいのかしら？#wh[wait]
+#cyWould you like me to explain about companions again?#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8738, 19)
+
+//=======================================
+// auto-generated string 519
+//=======================================
+
+#SETSIZE(160, 1)
+
+// もう一度聞く？<W6>
+//Listen to the explanation again?<W6>
+Hear the explanation again?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x874D, 5)
+
+//=======================================
+// auto-generated string 520
+//=======================================
+
+#SETSIZE(208, 1)
+
+// はい
+Yes.
+
+#ENDMSG()
+
+#STARTMSG(0x8758, 7)
+
+//=======================================
+// auto-generated string 521
+//=======================================
+
+// いいえ
+No.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x876C, 56)
+
+//=======================================
+// auto-generated string 522
+//=======================================
+
+// #cy同行者の動かし方は、アレン[br]
+// くんとほとんど一緒よ#wh[wait]
+#cyMoving companions is almost identical to travelling to places yourself.#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x87AC, 41)
+
+//=======================================
+// auto-generated string 523
+//=======================================
+
+// #cy早く#re司令室#cyで合流しましょう#wh[wait]
+#cyLet's meet up in the #recommand room#cy as soon as possible!#wh
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x886D, 44)
+
+//=======================================
+// auto-generated string 524
+//=======================================
+
+// 何をやっておるんじゃ？[br]
+// アレン・ウォーカー[wait]
+Allen Walker...[br]
+What are you doing?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x88A1, 56)
+
+//=======================================
+// auto-generated string 525
+//=======================================
+
+// 室長室に呼ばれているんですが[br]
+// 行き方がわからなくて……[wait]
+I was called to the command room by the Chief Officer, but I don't know what to do next...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x88E1, 23)
+
+//=======================================
+// auto-generated string 526
+//=======================================
+
+// 慌てることはなかろう[wait]
+Don't worry.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8900, 54)
+
+//=======================================
+// auto-generated string 527
+//=======================================
+
+// リナリー・リーが来るまで、[br]
+// しばらく待っているがよい[wait]
+Just wait here for a little while until Lenalee Lee comes.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x893E, 17)
+
+//=======================================
+// auto-generated string 528
+//=======================================
+
+// そ、そうですね[wait]
+Oh, okay then.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x898B, 23)
+
+//=======================================
+// auto-generated string 529
+//=======================================
+
+// 慌てることはなかろう[wait]
+Don't worry.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x89AA, 54)
+
+//=======================================
+// auto-generated string 530
+//=======================================
+
+// リナリー・リーが来るまで、[br]
+// しばらく待っているがよい[wait]
+Just wait here for a little while until Lenalee Lee comes.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x89E8, 17)
+
+//=======================================
+// auto-generated string 531
+//=======================================
+
+// そ、そうですね[wait]
+Oh, okay then.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8A30, 13)
+
+//=======================================
+// auto-generated string 532
+//=======================================
+
+// リナリー！[wait]
+Lenalee!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8A45, 23)
+
+//=======================================
+// auto-generated string 533
+//=======================================
+
+// お待たせ、アレンくん[wait]
+Thanks for waiting, Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8A64, 29)
+
+//=======================================
+// auto-generated string 534
+//=======================================
+
+// ちょっと緊張しちゃいますね[wait]
+I'm a bit nervous...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8A90, 50)
+
+//=======================================
+// auto-generated string 535
+//=======================================
+
+// そういえば、コムイ室長って[br]
+// どんな人なんですか？[wait]
+Speaking of which, what kind of person is the Chief Officer, Komui?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8AD1, 29)
+
+//=======================================
+// auto-generated string 536
+//=======================================
+
+// コムイ室長は私の兄さんなの[wait]
+He's my older brother.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8AF6, 50)
+
+//=======================================
+// auto-generated string 537
+//=======================================
+
+// 『黒の教団』にとっても、[br]
+// 私にとっても大切な人よ[wait]
+He's an important person, both to me and the Black Order.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8B37, 38)
+
+//=======================================
+// auto-generated string 538
+//=======================================
+
+// あとは、実際に会って[br]
+// 確かめてみてね[wait]
+But as for the rest, you'll have to see for yourself!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8B6C, 34)
+
+//=======================================
+// auto-generated string 539
+//=======================================
+
+// じゃあ、[br]
+// 室長室へ移動しましょう[wait]
+Well, let's go and see him.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8BE7, 23)
+
+//=======================================
+// auto-generated string 540
+//=======================================
+
+// お待たせ、アレンくん[wait]
+Thanks for waiting, Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8C06, 27)
+
+//=======================================
+// auto-generated string 541
+//=======================================
+
+// ちょっと待たせちゃった？[wait]
+Have you been here long?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8C30, 11)
+
+//=======================================
+// auto-generated string 542
+//=======================================
+
+// いえいえ[wait]
+No, it's fine.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8C4A, 50)
+
+//=======================================
+// auto-generated string 543
+//=======================================
+
+// そういえば、コムイ室長って[br]
+// どんな人なんですか？[wait]
+By the way, what kind of person is the Chief Officer, Komui?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8C8B, 29)
+
+//=======================================
+// auto-generated string 544
+//=======================================
+
+// コムイ室長は私の兄さんなの[wait]
+He's my older brother.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8CB0, 50)
+
+//=======================================
+// auto-generated string 545
+//=======================================
+
+// 『黒の教団』にとっても、[br]
+// 私にとっても大切な人よ[wait]
+He's an important person, both to me and the Black Order.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8CF1, 38)
+
+//=======================================
+// auto-generated string 546
+//=======================================
+
+// あとは、実際に会って[br]
+// 確かめてみてね[wait]
+But as for the rest, you'll have to see for yourself!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8D26, 34)
+
+//=======================================
+// auto-generated string 547
+//=======================================
+
+// じゃあ、[br]
+// 室長室へ移動しましょう[wait]
+Well, let's go and see him.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8D7A, 63)
+
+//=======================================
+// auto-generated string 548
+//=======================================
+
+// （もうっ、アレンくんたら、[br]
+// 一体どこへ行っちゃった[br]
+// のかしら）[wait]
+(Jeez, where in the world did Allen go?)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8DC1, 36)
+
+//=======================================
+// auto-generated string 549
+//=======================================
+
+// （コムイ兄さんが待っている[br]
+// のに）[wait]
+(My brother is waiting...)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8F61, 27)
+
+//=======================================
+// auto-generated string 550
+//=======================================
+
+// 早く司令室に行きましょう[wait]
+I should hurry to the command room.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x8FF9, 71)
+
+//=======================================
+// auto-generated string 551
+//=======================================
+
+// （この人がコムイさんか……。[br]
+// リナリーが来たら、きちんと[br]
+// 挨拶しよう）[wait]
+(So, this is Komui... When Lenalee gets here, I'll introduce myself properly.)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x90C1, 63)
+
+//=======================================
+// auto-generated string 552
+//=======================================
+
+// （もうっ、アレンくんたら、[br]
+// 一体どこへ行っちゃったのかし[br]
+// ら）[wait]
+(Jeez, where in the world did Allen go?)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9108, 36)
+
+//=======================================
+// auto-generated string 553
+//=======================================
+
+// （コムイ兄さんが待っているの[br]
+// に）[wait]
+(My brother is waiting...)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9168, 38)
+
+//=======================================
+// auto-generated string 554
+//=======================================
+
+// リナリー、こちらがアレンくん[br]
+// だね？[wait]
+Lenalee, is this Allen?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x919D, 17)
+
+//=======================================
+// auto-generated string 555
+//=======================================
+
+// そうよ、兄さん[wait]
+That's right.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x91B6, 23)
+
+//=======================================
+// auto-generated string 556
+//=======================================
+
+// ──ほら、アレンくん[wait]
+--Come here, Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x91D5, 19)
+
+//=======================================
+// auto-generated string 557
+//=======================================
+
+// 室長とお話してね[wait]
+Introduce yourself to the Chief Officer.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9218, 13)
+
+//=======================================
+// auto-generated string 558
+//=======================================
+
+// アレンくん[wait]
+Allen...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x922D, 23)
+
+//=======================================
+// auto-generated string 559
+//=======================================
+
+// こちらがコムイ室長よ[wait]
+This is the Chief Officer, Komui.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x924C, 25)
+
+//=======================================
+// auto-generated string 560
+//=======================================
+
+// 緊張しないでお話してね[wait]
+Now you can speak to each other face-[br]
+to-face.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x92B2, 40)
+
+//=======================================
+// auto-generated string 561
+//=======================================
+
+// はじめまして。[br]
+// アレン・ウォーカーです[wait]
+How do you do? I'm Allen Walker.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x92E2, 23)
+
+//=======================================
+// auto-generated string 562
+//=======================================
+
+// よろしくお願いします[wait]
+It's a pleasure to finally meet you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9308, 19)
+
+//=======================================
+// auto-generated string 563
+//=======================================
+
+// はーい、どーもぉ[wait]
+Likewise.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9323, 38)
+
+//=======================================
+// auto-generated string 564
+//=======================================
+
+// 科学班室長の#piコムイ・リー#whです[br]
+// [wait]
+I'm #piKomui Lee#wh, the Head Officer of the Science Department.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9351, 25)
+
+//=======================================
+// auto-generated string 565
+//=======================================
+
+// 歓迎するよ、アレンくん[wait]
+Welcome, Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x937D, 32)
+
+//=======================================
+// auto-generated string 566
+//=======================================
+
+// さっそくだけど、発動[br]
+// できる？[wait]
+Let's dive straight in, shall we? Could you invoke your Innocence?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x93A5, 11)
+
+//=======================================
+// auto-generated string 567
+//=======================================
+
+// あ、はい[wait]
+Ah, of course.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x93CF, 13)
+
+//=======================================
+// auto-generated string 568
+//=======================================
+
+// ……発動！[wait]
+...Activate!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x93EB, 38)
+
+//=======================================
+// auto-generated string 569
+//=======================================
+
+// ふむ。神経が侵されてるね。[br]
+// やっぱり[wait]
+Hm. Your nerves have been damaged.[br]
+As expected...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9419, 7)
+
+//=======================================
+// auto-generated string 570
+//=======================================
+
+// え？[wait]
+Huh?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9428, 46)
+
+//=======================================
+// auto-generated string 571
+//=======================================
+
+// キミの左腕の対アクマ武器、[br]
+// 損傷してるでしょ[wait]
+Your left arm is an Anti-Akuma Weapon, and it's been injured.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x945E, 54)
+
+//=======================================
+// auto-generated string 572
+//=======================================
+
+// 修練場で神田くんと手合わせ[br]
+// した時にやられたのかな？[wait]
+I wonder if it happened during the bout you had with Kanda in the training ground?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x949C, 11)
+
+//=======================================
+// auto-generated string 573
+//=======================================
+
+// …………[wait]
+............
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x94B6, 23)
+
+//=======================================
+// auto-generated string 574
+//=======================================
+
+// じゃ、修理しよっか？[wait]
+Well, shall I get to repairing it?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x94D5, 17)
+
+//=======================================
+// auto-generated string 575
+//=======================================
+
+// しゅ、修理！？[wait]
+Wha-- Repairs!?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x94F5, 77)
+
+//=======================================
+// auto-generated string 576
+//=======================================
+
+// ちょっとショッキングだから[br]
+// トラウマになりたくなかったら[br]
+// 見ないほうがいいよ[wait]
+It's quite upsetting, so if you don't want to be traumatised, it's better not to look.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x954A, 19)
+
+//=======================================
+// auto-generated string 577
+//=======================================
+
+// 待っ、待って……[wait]
+W-wait...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x956C, 22)
+
+//=======================================
+// auto-generated string 578
+//=======================================
+
+// ──修理開始[br]
+// Ｇｏ♪[wait]
+Repairs are go [note]
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9597, 29)
+
+//=======================================
+// auto-generated string 579
+//=======================================
+
+// ギャーーーーーーーーーーー[wait]
+GYAAAAAAA--!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x95F2, 40)
+
+//=======================================
+// auto-generated string 580
+//=======================================
+
+// これで良しっと[br]
+// ちゃんと治ったからね♪[wait]
+There we go, it's completely fixed [note]
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9629, 36)
+
+//=======================================
+// auto-generated string 581
+//=======================================
+
+// （もう絶対に腕を壊すもんか[br]
+// ……）[wait]
+(I swear I'll never hurt my arm again...)
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x965C, 11)
+
+//=======================================
+// auto-generated string 582
+//=======================================
+
+// まあまあ[wait]
+Now, now.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x966F, 57)
+
+//=======================================
+// auto-generated string 583
+//=======================================
+
+// 副作用はあるけど[br]
+// 寄生型はとってもレア[br]
+// なんだよ～～～～[wait]
+It has its downsides, but parasite types are extremely rare~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x96B7, 15)
+
+//=======================================
+// auto-generated string 584
+//=======================================
+
+// 寄生……型？[wait]
+Parasite... types?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x96D5, 38)
+
+//=======================================
+// auto-generated string 585
+//=======================================
+
+// うん。[br]
+// 人体を武器化する適合者のこと[wait]
+Yup. A type of Accommodator that can morph his body into a weapon.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9703, 50)
+
+//=======================================
+// auto-generated string 586
+//=======================================
+
+// 数ある対アクマ武器の中で、[br]
+// 最も珍しいタイプだよ[wait]
+It's the rarest type of Anti-Akuma Weapon of all.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x973D, 52)
+
+//=======================================
+// auto-generated string 587
+//=======================================
+
+// イノセンスの力を最も発揮でき[br]
+// る選ばれた存在なんだ[wait]
+They are the ones chosen to wield the Innocence's power to its full capacity.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9780, 56)
+
+//=======================================
+// auto-generated string 588
+//=======================================
+
+// さっきも神田から聞いたんです[br]
+// がイノセンスって一体…？[wait]
+I heard a bit from Kanda earlier, but what exactly is Innocence...? 
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x97C7, 46)
+
+//=======================================
+// auto-generated string 589
+//=======================================
+
+// おっと、その話の続きは、[br]
+// またゆっくりしよう[wait]
+Oops, let's continue this conversation later, at a more leisurely pace.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x97FD, 42)
+
+//=======================================
+// auto-generated string 590
+//=======================================
+
+// まずは、ボクらのボスに[br]
+// ご挨拶しないとね[wait]
+First of all, we have to say hello to our bosses.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x982F, 69)
+
+//=======================================
+// auto-generated string 591
+//=======================================
+
+// ボクらのボス、[br]
+// 大元帥の方々の部屋には、[br]
+// 吹抜けから行くことができる[wait]
+To get to our bosses, the Great Generals, we have to head to the elevator.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x987C, 75)
+
+//=======================================
+// auto-generated string 592
+//=======================================
+
+// ボクは先に吹抜けで待ってい[br]
+// るから、キミの準備ができたら[br]
+// 声をかけて欲しい[wait]
+I'll go on ahead to the elevator, so please come and talk to me when you're ready.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x98CF, 15)
+
+//=======================================
+// auto-generated string 593
+//=======================================
+
+// わかりました[wait]
+Understood.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x98E6, 25)
+
+//=======================================
+// auto-generated string 594
+//=======================================
+
+// 待ってるよ、アレンくん[wait]
+I'll be waiting, Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x999C, 32)
+
+//=======================================
+// auto-generated string 595
+//=======================================
+
+// 準備はできたかい？[br]
+// アレンくん[wait]
+Allen, are you ready?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x99C4, 36)
+
+//=======================================
+// auto-generated string 596
+//=======================================
+
+// 必要なのは、[br]
+// 心の準備だけだけどね[wait]
+Well, all you really need to do is mentally prepare yourself.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x99FA, 13)
+
+//=======================================
+// auto-generated string 597
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 準備は？<W6>
+Are you ready to go?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0x9A09, 7)
+
+//=======================================
+// auto-generated string 598
+//=======================================
+
+#SETSIZE(208, 1)
+
+// できた
+I'm all set.
+
+#ENDMSG()
+
+#STARTMSG(0x9A16, 5)
+
+//=======================================
+// auto-generated string 599
+//=======================================
+
+// まだ
+Not yet.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0x9A2C, 29)
+
+//=======================================
+// auto-generated string 600
+//=======================================
+
+// よし、じゃあ一緒に行こうか[wait]
+Great, then let's go together.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9A51, 34)
+
+//=======================================
+// auto-generated string 601
+//=======================================
+
+// ここがボクらの[br]
+// ボスのいる部屋だ[wait]
+We'll head to the room where our bosses are.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9B0D, 9)
+
+//=======================================
+// auto-generated string 602
+//=======================================
+
+// おや？[wait]
+Oh?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9B1E, 31)
+
+//=======================================
+// auto-generated string 603
+//=======================================
+
+// そんなに緊張する必要はないよ[wait]
+You don't have to be so nervous.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9B45, 48)
+
+//=======================================
+// auto-generated string 604
+//=======================================
+
+// ボクはここで待っているから、[br]
+// いつでも呼んでね[wait]
+I'll be waiting here, so speak to me whenever you're good to go.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9C20, 57)
+
+//=======================================
+// auto-generated string 605
+//=======================================
+
+// コムイさん、先ほどの[br]
+// “イノセンス”のこと[br]
+// ですけど──[wait]
+Komui, what you were saying before, about {Innocence}--
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9C65, 48)
+
+//=======================================
+// auto-generated string 606
+//=======================================
+
+// “それは神のイノセンス。[br]
+// 全知全能の力なり。”[wait]
+{The Innocence of God. The power of the Almighty.}
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9CA4, 15)
+
+//=======================================
+// auto-generated string 607
+//=======================================
+
+// この声は？！[wait]
+That voice?!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9CC2, 54)
+
+//=======================================
+// auto-generated string 608
+//=======================================
+
+// 今お話をされているのが[br]
+// ボクらのボス、大元帥の方々だ[wait]
+Those are our bosses, the Great Generals.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9D04, 46)
+
+//=======================================
+// auto-generated string 609
+//=======================================
+
+// “またひとつ…。[br]
+// 我らは神を手に入れた…。”[wait]
+{Yet another... We have managed to grasp God...}
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9D41, 42)
+
+//=======================================
+// auto-generated string 610
+//=======================================
+
+// キミの価値を、あの方々に[br]
+// お見せするんだ[wait]
+Now, prove your worth to them.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9D73, 11)
+
+//=======================================
+// auto-generated string 611
+//=======================================
+
+// ……え？[wait]
+...Huh?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9D86, 63)
+
+//=======================================
+// auto-generated string 612
+//=======================================
+
+// そこにいるヘブラスカの前で、[br]
+// イノセンスを発動してみて[br]
+// おくれ[wait]
+Try invoking your Innocence, in front of Hevlaska here.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9DE0, 7)
+
+//=======================================
+// auto-generated string 613
+//=======================================
+
+// ……[wait]
+......
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9E2E, 63)
+
+//=======================================
+// auto-generated string 614
+//=======================================
+
+// そこにいるヘブラスカの前で、[br]
+// イノセンスを発動してみて[br]
+// おくれ[wait]
+Try invoking your Innocence, in front of Hevlaska here.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9E84, 63)
+
+//=======================================
+// auto-generated string 615
+//=======================================
+
+// そこにいるヘブラスカの前で、[br]
+// イノセンスを発動してみて[br]
+// おくれ[wait]
+Try invoking your Innocence, in front of Hevlaska here.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9F46, 44)
+
+//=======================================
+// auto-generated string 616
+//=======================================
+
+// キミのイノセンスは[br]
+// 素晴らしいよアレンくん[wait]
+Your Innocence is magnificent, Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9F81, 27)
+
+//=======================================
+// auto-generated string 617
+//=======================================
+
+// ──どうだい、ヘブラスカ[wait]
+--What do you think, Hevlaska?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9FA4, 42)
+
+//=======================================
+// auto-generated string 618
+//=======================================
+
+// この神の使徒は、[br]
+// キミのお気に召すかな？[wait]
+How do you like... this soldier of life?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0x9FDD, 30)
+
+//=======================================
+// auto-generated string 619
+//=======================================
+
+// イ…イ…イノ…[br]
+// イノセンス…[wait]
+In...In...Inno...Innocence...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA00A, 13)
+
+//=======================================
+// auto-generated string 620
+//=======================================
+
+// なっ…！？[wait]
+What the...!?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA01F, 21)
+
+//=======================================
+// auto-generated string 621
+//=======================================
+
+// なんなんだ、これ！[wait]
+What is this thing!?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA043, 40)
+
+//=======================================
+// auto-generated string 622
+//=======================================
+
+// 体の中を何かに探られている[br]
+// 感触……！[wait]
+It feels like it's probing the inside of my body...!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA073, 29)
+
+//=======================================
+// auto-generated string 623
+//=======================================
+
+// 落ち着いて、私は敵じゃない[wait]
+Calm down... I'm not an enemy...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA09C, 11)
+
+//=======================================
+// auto-generated string 624
+//=======================================
+
+// …………[wait]
+............
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA0B3, 61)
+
+//=======================================
+// auto-generated string 625
+//=======================================
+
+// 私は、ただ…[br]
+// お前のイノセンスに触れ、[br]
+// 知ろうとしただけだ…[wait]
+I just... wanted to touch your Innocence and learn about it...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA0F8, 29)
+
+//=======================================
+// auto-generated string 626
+//=======================================
+
+// 僕のイノセンスを……知る？[wait]
+You wanted to learn... about my Innocence?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA11D, 23)
+
+//=======================================
+// auto-generated string 627
+//=======================================
+
+// アレン・ウォーカー…[wait]
+Allen Walker...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA13C, 42)
+
+//=======================================
+// auto-generated string 628
+//=======================================
+
+// お前のイノセンスは、[br]
+// いつか黒い未来で、[wait]
+Someday in future when darkness dominates, your Innocence will...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA16E, 38)
+
+//=======================================
+// auto-generated string 629
+//=======================================
+
+// 偉大な『時の破壊者』を[br]
+// 生むだろう…[wait]
+...produce a great {Destroyer of Time}...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA19C, 38)
+
+//=======================================
+// auto-generated string 630
+//=======================================
+
+// ──私には、そう感じられた[br]
+// …………[wait]
+--That is what I felt...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA1CA, 19)
+
+//=======================================
+// auto-generated string 631
+//=======================================
+
+// それが私の能力…[wait]
+...That is my power...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA1EC, 59)
+
+//=======================================
+// auto-generated string 632
+//=======================================
+
+// すごいじゃないか～～～～♪[br]
+// それはきっと、キミのことだよ[br]
+// [wait]
+Truly extraordinary~~[note][br]
+It must be referring to you!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA22F, 44)
+
+//=======================================
+// auto-generated string 633
+//=======================================
+
+// ヘブラスカの『預言』は[br]
+// 良く当たるんだから[wait]
+Hevlaska's {prophecies} are usually dead-on.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA26A, 17)
+
+//=======================================
+// auto-generated string 634
+//=======================================
+
+// コムイさん！！[wait]
+Komui!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA28A, 61)
+
+//=======================================
+// auto-generated string 635
+//=======================================
+
+// いやー、ごめんごめん。[br]
+// ビックリしたんだね。[br]
+// 怖かったんだね[wait]
+Ooh, sorry sorry. I know how surprised you must've been. I'm sure it was scary.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA2CF, 21)
+
+//=======================================
+// auto-generated string 636
+//=======================================
+
+// わかるよ～～～～～[wait]
+I understand~~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA2F3, 81)
+
+//=======================================
+// auto-generated string 637
+//=======================================
+
+// 入団するエクソシストは、[br]
+// ヘブラスカにイノセンスを調べ[br]
+// てもらうのが規則なんだよ[wait]
+New Exorcists of the Order have to get their Innocence inspected by Hevlaska. It's a rule.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA353, 40)
+
+//=======================================
+// auto-generated string 638
+//=======================================
+
+// そーゆーことは最初に言って[br]
+// ください！[wait]
+Why couldn't you tell me that before-[br]
+hand?!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA383, 67)
+
+//=======================================
+// auto-generated string 639
+//=======================================
+
+// それに、さっきから“イノセン[br]
+// ス”って、一体何のことなんで[br]
+// すか？[wait]
+What exactly is an {Innocence}, anyway?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA3CE, 21)
+
+//=======================================
+// auto-generated string 640
+//=======================================
+
+// ちゃんと説明するよ[wait]
+I'll give you a proper explanation.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA3EB, 85)
+
+//=======================================
+// auto-generated string 641
+//=======================================
+
+// イノセンスは、これから戦いに[br]
+// 身を投じる、キミ達エクソシス[br]
+// トに深く関わる話だからね[wait]
+After all, the Innocence plays a significant role for Exorcists who go off to battle.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA484, 61)
+
+//=======================================
+// auto-generated string 642
+//=======================================
+
+// 約百年前に見つかった[br]
+// 『神の結晶』と呼ばれる不思議[br]
+// な物質…[wait]
+This all began several hundred years ago, after a strange substance known as the {Crystal of God} was discovered...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA4C9, 44)
+
+//=======================================
+// auto-generated string 643
+//=======================================
+
+// それをボク達は“イノセンス”[br]
+// と呼んでいる[wait]
+We call it {Innocence}.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA4FD, 87)
+
+//=======================================
+// auto-generated string 644
+//=======================================
+
+// そして、あの恐るべき悪性兵器[br]
+// アクマの製造者『千年伯爵』を[br]
+// 倒すことができる唯一の武器[wait]
+And it's the only material capable of destroying the evil weapons created by the {Millennium Earl}, known as Akuma.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA55C, 69)
+
+//=======================================
+// auto-generated string 645
+//=======================================
+
+// 対アクマ武器とは、イノセンス[br]
+// を加工して武器化したものの[br]
+// 総称なんだ[wait]
+An Innocence that has been processed and converted into a weapon is called an {Anti-Akuma Weapon}.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA5B0, 7)
+
+//=======================================
+// auto-generated string 646
+//=======================================
+
+// ！！[wait]
+!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA5C3, 17)
+
+//=======================================
+// auto-generated string 647
+//=======================================
+
+// 使徒を集めよ！[wait]
+Gather the Apostles!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA5DC, 50)
+
+//=======================================
+// auto-generated string 648
+//=======================================
+
+// イノセンスは、ひとつにつき、[br]
+// ひとりの使徒を選ぶ[wait]
+Each Innocence will choose a soldier.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA616, 29)
+
+//=======================================
+// auto-generated string 649
+//=======================================
+
+// それすなわち『適合者』！！[wait]
+They will be known as the {Accommodators}!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA63B, 52)
+
+//=======================================
+// auto-generated string 650
+//=======================================
+
+// 適合者なくば、イノセンスは[br]
+// その力を発動しない！！[wait]
+Only an Accommodator will be able to wield the power of the Innocence!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA67E, 63)
+
+//=======================================
+// auto-generated string 651
+//=======================================
+
+// イノセンスの『適合者』──[br]
+// それがキミ達エクソシストの[br]
+// ことだ[wait]
+The {Accommodators} of Innocence are also known as Exorcists, just like yourself. 
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA6C5, 9)
+
+//=======================================
+// auto-generated string 652
+//=======================================
+
+// ……！[wait]
+...!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA6D6, 58)
+
+//=======================================
+// auto-generated string 653
+//=======================================
+
+// もちろん、伯爵もまた神を殺す[br]
+// 軍団を、造り出してきている[wait]
+Of course, the Earl has also created an army, to destroy God.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA71F, 19)
+
+//=======================================
+// auto-generated string 654
+//=======================================
+
+// アクマ……ですね[wait]
+You mean... the Akuma?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA73A, 71)
+
+//=======================================
+// auto-generated string 655
+//=======================================
+
+// そう。あの兵器は、[br]
+// イノセンスが“白”ならば、[br]
+// まさしく“黒”の存在だ[wait]
+That's right. If Innocence is {white}, they are {black}.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA789, 77)
+
+//=======================================
+// auto-generated string 656
+//=======================================
+
+// 暗黒物質『ダークマター』で[br]
+// 造られたアクマは、人を殺す[br]
+// ことで成長し進化する[wait]
+The Akuma are made of {dark matter}. They grow and evolve by killing people.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA7DE, 50)
+
+//=======================================
+// auto-generated string 657
+//=======================================
+
+// 伯爵は、社会の影に隠れてアク[br]
+// マの軍団を増やし、[wait]
+The Earl is hiding in the shadows of society, fortifying his army of Akuma.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA818, 42)
+
+//=======================================
+// auto-generated string 658
+//=======================================
+
+// イノセンスの復活を[br]
+// 阻止しようとしている[wait]
+He plots to destroy the Innocence and prevent its resurrection.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA84A, 54)
+
+//=======================================
+// auto-generated string 659
+//=======================================
+
+// そこで我々はまず、世界各地[br]
+// に眠るイノセンスを集め、[wait]
+So, we must retrieve the Innocence that is scattered throughout the world...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA888, 48)
+
+//=======================================
+// auto-generated string 660
+//=======================================
+
+// 伯爵を倒せるだけの戦力を[br]
+// 集めなければならない[wait]
+...to gather enough strength to destroy the Earl.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA8C0, 54)
+
+//=======================================
+// auto-generated string 661
+//=======================================
+
+// 伯爵もまた、イノセンスを探し[br]
+// 破壊しようと動いている[wait]
+The Earl is also searching for the Innocence; to destroy it.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA8FE, 29)
+
+//=======================================
+// auto-generated string 662
+//=======================================
+
+// ──イノセンスの争奪戦争だ[wait]
+It's a race to get to the Innocence first.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA92A, 15)
+
+//=======================================
+// auto-generated string 663
+//=======================================
+
+// …………！！[wait]
+...!!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA945, 7)
+
+//=======================================
+// auto-generated string 664
+//=======================================
+
+// 戦え[wait]
+You must fight.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA954, 42)
+
+//=======================================
+// auto-generated string 665
+//=======================================
+
+// それがイノセンスに選ばれた[br]
+// お前の宿命…[wait]
+That is your fate, as one chosen by the Innocence...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA986, 21)
+
+//=======================================
+// auto-generated string 666
+//=======================================
+
+// 宿命なのだ…………[wait]
+It's your destiny...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xA9E9, 50)
+
+//=======================================
+// auto-generated string 667
+//=======================================
+
+// ──ま、そんなところだ[br]
+// 以上で長い説明は終わり♪[wait]
+--Well, there you have it. That's it for the long explanation [note]
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAA2F, 61)
+
+//=======================================
+// auto-generated string 668
+//=======================================
+
+// 一緒に世界のために[br]
+// がんばりましょう[br]
+// 一銭にもならないけどね[wait]
+Let's both do our best for the world, even though we won't make a penny off of it.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAA7E, 17)
+
+//=======================================
+// auto-generated string 669
+//=======================================
+
+#SETSIZE(160, 1)
+
+// どうしよう？<W6>
+What should I say?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0xAA91, 7)
+
+//=======================================
+// auto-generated string 670
+//=======================================
+
+#SETSIZE(208, 1)
+
+// いいえ
+No.
+
+#ENDMSG()
+
+#STARTMSG(0xAA9E, 5)
+
+//=======================================
+// auto-generated string 671
+//=======================================
+
+// はい
+Yes.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0xAAE1, 7)
+
+//=======================================
+// auto-generated string 672
+//=======================================
+
+// ……[wait]
+......
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAAF5, 53)
+
+//=======================================
+// auto-generated string 673
+//=======================================
+
+// あれ？もしかして[br]
+// さっきの腕の修理の件、[br]
+// 怒ってる？[wait]
+Huh? Oh, could it be that you're still mad at me for repairing your arm?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAB37, 44)
+
+//=======================================
+// auto-generated string 674
+//=======================================
+
+// 今度はやさしくやるからさ。[br]
+// 機嫌直してよ～[wait]
+I promise I'll be more gentle next time.[br]
+Please forgive me~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAB84, 7)
+
+//=======================================
+// auto-generated string 675
+//=======================================
+
+// ……[wait]
+......
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAB98, 71)
+
+//=======================================
+// auto-generated string 676
+//=======================================
+
+// まだ怒ってるのかい？[br]
+// いい加減、機嫌直して[br]
+// 世界のためにがんばろうよ！[wait]
+Are you still mad? Cut it out now. You need to be strong, for the sake of the world!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAC14, 11)
+
+//=======================================
+// auto-generated string 677
+//=======================================
+
+// ……はい[wait]
+...Yes.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAC2C, 46)
+
+//=======================================
+// auto-generated string 678
+//=======================================
+
+// じゃ、改めて言うのもなんだけ[br]
+// ど、アレンくん[wait]
+Then what say we start afresh, Allen?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAC67, 31)
+
+//=======================================
+// auto-generated string 679
+//=======================================
+
+// ─ようこそ、『黒の教団』へ！[wait]
+--Welcome to the Black Order!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAC98, 19)
+
+//=======================================
+// auto-generated string 680
+//=======================================
+
+// 私はたくさんの…[wait]
+I have met...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xACB3, 38)
+
+//=======================================
+// auto-generated string 681
+//=======================================
+
+// エクソシストと[br]
+// 出会ってきた…………[wait]
+...many Exorcists...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xACE1, 49)
+
+//=======================================
+// auto-generated string 682
+//=======================================
+
+// アレン…[br]
+// お前に神の加護があらんことを[br]
+// …………[wait]
+Allen... May the Lord's divine protection...[br]
+be with you...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAD4F, 28)
+
+//=======================================
+// auto-generated string 683
+//=======================================
+
+// やっと……[br]
+// ここまで来たよ[wait]
+I've finally... made it this far.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAD75, 27)
+
+//=======================================
+// auto-generated string 684
+//=======================================
+
+// やっと、スタートラインだ[wait]
+I'm finally at the starting line.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAD9A, 36)
+
+//=======================================
+// auto-generated string 685
+//=======================================
+
+// 「立ち止まるな」[br]
+// 「歩きつづけろ」[wait]
+{Don't stop.} [br]
+{Keep walking.}
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xADC8, 34)
+
+//=======================================
+// auto-generated string 686
+//=======================================
+
+// あんたがいつも言ってた[br]
+// 言葉……[wait]
+That's what you always said...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xADF4, 21)
+
+//=======================================
+// auto-generated string 687
+//=======================================
+
+// 宿命なんて関係ない[wait]
+It has nothing to do with fate.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAE13, 36)
+
+//=======================================
+// auto-generated string 688
+//=======================================
+
+// これは僕が自分の意志で[br]
+// 選んだ道だ[wait]
+This is the path I decided to follow.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAE41, 36)
+
+//=======================================
+// auto-generated string 689
+//=======================================
+
+// 誓うよ[br]
+// 何があっても立ち止まらない[wait]
+I swear... I won't stop no matter what lies ahead.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAE6F, 32)
+
+//=======================================
+// auto-generated string 690
+//=======================================
+
+// 命が尽きるまで[br]
+// 歩き続けていく[wait]
+I'll keep on walking as long as I live.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAEE1, 15)
+
+//=======================================
+// auto-generated string 691
+//=======================================
+
+// あ、いたいた[wait]
+Oh, there he is.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAEF8, 46)
+
+//=======================================
+// auto-generated string 692
+//=======================================
+
+// アレン！１０分でメシ食って[br]
+// 室長室に来てくれ[wait]
+Allen! Finish eating in ten minutes and come to the command room.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAF2E, 9)
+
+//=======================================
+// auto-generated string 693
+//=======================================
+
+// 任務だ[wait]
+You have a mission.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAF78, 15)
+
+//=======================================
+// auto-generated string 694
+//=======================================
+
+// やぁ、来たね[wait]
+Ah, good, you made it.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAF8F, 29)
+
+//=======================================
+// auto-generated string 695
+//=======================================
+
+// では、これからの話をしよう[wait]
+Then let me give you your briefing.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAFBB, 40)
+
+//=======================================
+// auto-generated string 696
+//=======================================
+
+// キミたち、エクソシストの[br]
+// 任務のことだ[wait]
+You're going on an Exorcist mission.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xAFEB, 29)
+
+//=======================================
+// auto-generated string 697
+//=======================================
+
+// ええ、よろしくお願いします[wait]
+Yes, I'll be in your care.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB043, 17)
+
+//=======================================
+// auto-generated string 698
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0xB056, 23)
+
+//=======================================
+// auto-generated string 699
+//=======================================
+
+#SETSIZE(208, 1)
+
+// エクソシストの任務とは
+What is an Exorcist mission?
+
+#ENDMSG()
+
+#STARTMSG(0xB073, 13)
+
+//=======================================
+// auto-generated string 700
+//=======================================
+
+// 任務の進め方
+How to proceed with the mission.
+
+#ENDMSG()
+
+#STARTMSG(0xB086, 11)
+
+//=======================================
+// auto-generated string 701
+//=======================================
+
+// 任務のコツ
+Mission tips.
+
+#ENDMSG()
+
+#STARTMSG(0xB0A8, 17)
+
+//=======================================
+// auto-generated string 702
+//=======================================
+
+#SETSIZE(160, 1)
+
+// 何を聞こう？<W6>
+What should I ask?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0xB0BB, 23)
+
+//=======================================
+// auto-generated string 703
+//=======================================
+
+#SETSIZE(208, 1)
+
+// エクソシストの任務とは
+What is an Exorcist mission?
+
+#ENDMSG()
+
+#STARTMSG(0xB0D8, 13)
+
+//=======================================
+// auto-generated string 704
+//=======================================
+
+// 任務の進め方
+How to proceed with the mission.
+
+#ENDMSG()
+
+#STARTMSG(0xB0EB, 11)
+
+//=======================================
+// auto-generated string 705
+//=======================================
+
+// 任務のコツ
+Mission tips.
+
+#ENDMSG()
+
+#STARTMSG(0xB0FC, 9)
+
+//=======================================
+// auto-generated string 706
+//=======================================
+
+// 聞かない
+Nevermind.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0xB116, 89)
+
+//=======================================
+// auto-generated string 707
+//=======================================
+
+// 先ほども話したとおり、ボクた[br]
+// ちは各地に眠っているイノセン[br]
+// スを、回収しなくてはならない[wait]
+As I said earlier, we must retrieve the Innocence that is scattered throughout the world.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB177, 48)
+
+//=======================================
+// auto-generated string 708
+//=======================================
+
+// 千年伯爵を倒せるだけの、[br]
+// 戦力を集めるためにね[wait]
+We need to get there before the Millennium Earl, to increase our chances of winning this war.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB1B6, 50)
+
+//=======================================
+// auto-generated string 709
+//=======================================
+
+// イノセンスは、どうやって[br]
+// 探したらいいんですか？[wait]
+How do we locate the Innocence?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB1F0, 13)
+
+//=======================================
+// auto-generated string 710
+//=======================================
+
+// いい質問だ[wait]
+Good question.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB205, 51)
+
+//=======================================
+// auto-generated string 711
+//=======================================
+
+// “奇怪がある場所に[br]
+// 　イノセンスあり”[br]
+// と言ってね[wait]
+{Wherever there's a mysterious phenomenon, there's an Innocence}, as they say.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB240, 58)
+
+//=======================================
+// auto-generated string 712
+//=======================================
+
+// 世界中に不思議な現象の起こっ[br]
+// ている場所を調べてみると、[wait]
+If you investigate the places around the world where strange phenomena are occurring...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB282, 50)
+
+//=======================================
+// auto-generated string 713
+//=======================================
+
+// 実はイノセンスが原因だったり[br]
+// することが多いんだ[wait]
+...you'll find that the cause is most often Innocence.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB2BC, 52)
+
+//=======================================
+// auto-generated string 714
+//=======================================
+
+// ただそこにあるだけで、周りに[br]
+// 奇怪な現象を起こし、[wait]
+So its energy causes strange occurrences, just by being there...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB2F8, 59)
+
+//=======================================
+// auto-generated string 715
+//=======================================
+
+// 『適合者』が持てば[br]
+// 対アクマ武器にもなる[br]
+// 不思議な結晶……[wait]
+...and if an {Accomodator} possesses it, it transforms into an Anti-Akuma Weapon...?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB342, 27)
+
+//=======================================
+// auto-generated string 716
+//=======================================
+
+// そう、それがイノセンスだ[wait]
+Indeed, that's the nature of the Innocence.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB365, 79)
+
+//=======================================
+// auto-generated string 717
+//=======================================
+
+// 『黒の教団』は、そうして可能[br]
+// 性が高いと判断した場所に[br]
+// エクソシストを派遣する[wait]
+The Black Order sends Exorcists to any locations where the chance of finding some is deemed likely.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB3BC, 52)
+
+//=======================================
+// auto-generated string 718
+//=======================================
+
+// なにしろ、イノセンスは[br]
+// 千年伯爵も狙っているからね[wait]
+After all, the Millennium Earl is also hoping to get his hands on the Innocence.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB3F8, 54)
+
+//=======================================
+// auto-generated string 719
+//=======================================
+
+// アクマの追撃をかわして、[br]
+// イノセンスを回収することが[wait]
+Avoiding detection by any Akuma and recovering the Innocence...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB436, 40)
+
+//=======================================
+// auto-generated string 720
+//=======================================
+
+// キミたちエクソシストの[br]
+// 仕事ってわけだ[wait]
+That is your mission, as an Exorcist.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB477, 56)
+
+//=======================================
+// auto-generated string 721
+//=======================================
+
+// 僕らはコムイさんが判断した[br]
+// “奇怪ある場所”に向かい…[wait]
+We're headed for any places deemed as a {suspicious location}...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB4B7, 44)
+
+//=======================================
+// auto-generated string 722
+//=======================================
+
+// イノセンスを回収してくれば[br]
+// いいんですね？[wait]
+...meaning, we're going to collect the Innocence?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB4EB, 27)
+
+//=======================================
+// auto-generated string 723
+//=======================================
+
+// あー、そのことなんだけど[wait]
+Yes, that's right.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB50E, 77)
+
+//=======================================
+// auto-generated string 724
+//=======================================
+
+// 同時に複数の任務がある場合[br]
+// どの任務から先に向かうかは[br]
+// キミたちが選んでいい[wait]
+If you have more than one mission at the same time, you can choose which you'd like to proceed with.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB563, 26)
+
+//=======================================
+// auto-generated string 725
+//=======================================
+
+// え？[br]
+// 僕が選ぶんですか？[wait]
+Huh? I get to choose?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB585, 79)
+
+//=======================================
+// auto-generated string 726
+//=======================================
+
+// いやー、調査の必要な任務の数[br]
+// に比べて、エクソシストの数が[br]
+// 全然足りなくてね～[wait]
+Well, compared to the number of missions that need to be investigated, there aren't enough Exorcists to go around~
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB5DC, 60)
+
+//=======================================
+// auto-generated string 727
+//=======================================
+
+// ボクとしては、早くイノセンス[br]
+// を回収することができるなら…[wait]
+As far as I'm concerned, if the Innocence can be recovered as soon as possible...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB627, 29)
+
+//=======================================
+// auto-generated string 728
+//=======================================
+
+// 順番は問わないというわけさ[wait]
+...then whatever order the missions are completed doesn't really matter.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB653, 52)
+
+//=======================================
+// auto-generated string 729
+//=======================================
+
+// それと、任務にはふたりコンビ[br]
+// で行ってもらうから…[wait]
+Also, I'll send you out in a group of two...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB68F, 69)
+
+//=======================================
+// auto-generated string 730
+//=======================================
+
+// キミが任務を選ぶ時に必要だと[br]
+// 思うエクソシストを同行者に[br]
+// 選んでくれ[wait]
+...so you'll have to choose which Exorcist you think will be most indispensable to the mission to travel with you.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB6DC, 25)
+
+//=======================================
+// auto-generated string 731
+//=======================================
+
+// 必ず力になってくれるよ[wait]
+I'm sure they'll be a great help.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB6FD, 15)
+
+//=======================================
+// auto-generated string 732
+//=======================================
+
+// わかりました[wait]
+Understood.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB71B, 27)
+
+//=======================================
+// auto-generated string 733
+//=======================================
+
+// 期待してるよ、アレンくん[wait]
+I have high hopes for you, Allen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB73E, 28)
+
+//=======================================
+// auto-generated string 734
+//=======================================
+
+// は、はい。[br]
+// がんばります！[wait]
+Y-yes. I'll do my best!
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB773, 36)
+
+//=======================================
+// auto-generated string 735
+//=======================================
+
+// 任務が順調にこなせるか[br]
+// どうかは…[wait]
+Whether the mission goes smoothly or not...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB79F, 77)
+
+//=======================================
+// auto-generated string 736
+//=======================================
+
+// 任務を選ぶ順番や、任務に[br]
+// 連れて行く同行者によって[br]
+// 変わってくるかもしれない[wait]
+...may vary depending on the order in which you chose the mission, or who you take with you on it.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB7F4, 58)
+
+//=======================================
+// auto-generated string 737
+//=======================================
+
+// 場合によっては任務の途中で[br]
+// 新しい仲間が増えることもある[wait]
+In some cases, you might make new friends in the middle of a mission...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB836, 46)
+
+//=======================================
+// auto-generated string 738
+//=======================================
+
+// だから、任務とその同行者は[br]
+// 慎重に選んでくれ[wait]
+...so choose the order and your companions carefully.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB8DC, 52)
+
+//=======================================
+// auto-generated string 739
+//=======================================
+
+// これで、エクソシストの[br]
+// 任務のことはわかったかな？[wait]
+Do you understand how Exorcist missions work now?
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB918, 56)
+
+//=======================================
+// auto-generated string 740
+//=======================================
+
+// 気にしなくても、やっている[br]
+// うちに慣れると思うけどね♪[wait]
+Though I wouldn't worry too much about it anyway. I think you'll get used to them as you go [note]
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB967, 19)
+
+//=======================================
+// auto-generated string 741
+//=======================================
+
+#SETSIZE(160, 1)
+
+// まだ話を聞く？<W6>
+Are you ready to proceed?<W6>
+
+#ENDMSG()
+
+#STARTMSG(0xB97C, 5)
+
+//=======================================
+// auto-generated string 742
+//=======================================
+
+#SETSIZE(208, 1)
+
+// 聞く
+Listen to the explanation again.
+
+#ENDMSG()
+
+#STARTMSG(0xB987, 7)
+
+//=======================================
+// auto-generated string 743
+//=======================================
+
+// 大丈夫
+I'm fine.
+
+#ENDMSG()
+
+
+#SETSIZE(224, 3)
+#STARTMSG(0xB99B, 21)
+
+//=======================================
+// auto-generated string 744
+//=======================================
+
+// 早速だけど、任務だ[wait]
+Then without any further ado, your mission.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB9B8, 54)
+
+//=======================================
+// auto-generated string 745
+//=======================================
+
+// 下画面のボードをタッチすると[br]
+// 任務の資料が確認できる[wait]
+By touching the boards on the bottom screen, you can view the mission information.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xB9F6, 27)
+
+//=======================================
+// auto-generated string 746
+//=======================================
+
+// 行きたい任務を選んでくれ[wait]
+Please choose which mission you'd like to proceed with.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBA7F, 29)
+
+//=======================================
+// auto-generated string 747
+//=======================================
+
+// 今は特に話すことはない……[wait]
+There is nothing to particularly talk about right now...
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBABF, 40)
+
+//=======================================
+// auto-generated string 748
+//=======================================
+
+// 下の画面の調べたい所を[br]
+// タッチして下さい
+Touch the spot you'd like to examine on the screen below.
+
+#ENDMSG()
+
+#STARTMSG(0xBB6C, 31)
+
+//=======================================
+// auto-generated string 749
+//=======================================
+
+// タペストリーがかけられている[wait]
+There is a tapestry hanging on the wall.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBBA0, 21)
+
+//=======================================
+// auto-generated string 750
+//=======================================
+
+// 丈夫そうな柱がある[wait]
+This column appears to be rather sturdy.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBBF7, 21)
+
+//=======================================
+// auto-generated string 751
+//=======================================
+
+// 丈夫そうな柱がある[wait]
+This column appears to be rather sturdy.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBC21, 38)
+
+//=======================================
+// auto-generated string 752
+//=======================================
+
+// ここは回廊への分かれ道に[br]
+// なっている[wait]
+The lobby leads off to different corridors.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBC68, 40)
+
+//=======================================
+// auto-generated string 753
+//=======================================
+
+// 下の画面の調べたい所を[br]
+// タッチして下さい
+Touch the spot you'd like to examine on the screen below.
+
+#ENDMSG()
+
+#STARTMSG(0xBD0B, 27)
+
+//=======================================
+// auto-generated string 754
+//=======================================
+
+// ここはコムイ室長の部屋だ[wait]
+This is the Chief Officer, Komui's, room.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBD68, 27)
+
+//=======================================
+// auto-generated string 755
+//=======================================
+
+// 紙の資料が散らばっている[wait]
+Paper documents are scattered around.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBDC5, 25)
+
+//=======================================
+// auto-generated string 756
+//=======================================
+
+// 資料が沢山積まれている[wait]
+There's a mountain of paperwork.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBDF3, 27)
+
+//=======================================
+// auto-generated string 757
+//=======================================
+
+// たくさんの本が並んでいる[wait]
+There are many books on the shelves.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBE2A, 40)
+
+//=======================================
+// auto-generated string 758
+//=======================================
+
+// 下の画面の調べたい所を[br]
+// タッチして下さい
+Touch the spot you'd like to examine on the screen below.
+
+#ENDMSG()
+
+#STARTMSG(0xBEB9, 48)
+
+//=======================================
+// auto-generated string 759
+//=======================================
+
+// ホログラムスクリーンだ[br]
+// 教団の外観が映っている[wait]
+There's a model of headquarters reflected in the holographic screen.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBEFE, 34)
+
+//=======================================
+// auto-generated string 760
+//=======================================
+
+// 座り心地のよさそうなイスがあ[br]
+// る[wait]
+This looks like a comfortable place to sit.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBF49, 25)
+
+//=======================================
+// auto-generated string 761
+//=======================================
+
+// 扉には鍵がかかっている[wait]
+The door is locked.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBF74, 17)
+
+//=======================================
+// auto-generated string 762
+//=======================================
+
+// 室長室への扉だ[wait]
+This is the door to the head office.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBF95, 40)
+
+//=======================================
+// auto-generated string 763
+//=======================================
+
+// ここは『司令室』と[br]
+// 呼ばれているらしい[wait]
+It seems this is the so-called {command room}.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xBFC5, 46)
+
+//=======================================
+// auto-generated string 764
+//=======================================
+
+// 中央のスクリーンに[br]
+// ホログラムが浮かんでいる[wait]
+There's a large screen with a hologram floating in the centre of it.
+[wait]
+
+
+#ENDMSG()
+
+// misdetected string, ignore
+
+//#STARTMSG(0xC00C, 3)
+//
+////=======================================
+//// auto-generated string 765
+////=======================================
+//
+//// ;/
+//
+//
+//#ENDMSG()
+
+#STARTMSG(0xC014, 40)
+
+//=======================================
+// auto-generated string 766
+//=======================================
+
+// 下の画面の調べたい所を[br]
+// タッチして下さい
+Touch the spot you'd like to examine on the screen below.
+
+#ENDMSG()
+
+#STARTMSG(0xC0D0, 27)
+
+//=======================================
+// auto-generated string 767
+//=======================================
+
+// 壁には絵が掛けられている[wait]
+Pictures have been hung on the wall.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC100, 34)
+
+//=======================================
+// auto-generated string 768
+//=======================================
+
+// 長イスだ[br]
+// かなり使いこまれている[wait]
+These benches have been well worn.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC137, 46)
+
+//=======================================
+// auto-generated string 769
+//=======================================
+
+// 厨房への入り口だ[br]
+// 『関係者以外立ち入り禁止』[wait]
+The kitchen door says:[br]
+{No entry. Authorised personnel only.}
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC17A, 15)
+
+//=======================================
+// auto-generated string 770
+//=======================================
+
+// ここは食堂だ[wait]
+This is the dining hall.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC191, 42)
+
+//=======================================
+// auto-generated string 771
+//=======================================
+
+// 広い室内に教団の人たちが[br]
+// 食事をしている[wait]
+It's a spacious room where everyone in the Order can eat.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC1DC, 40)
+
+//=======================================
+// auto-generated string 772
+//=======================================
+
+// 下の画面の調べたい所を[br]
+// タッチして下さい
+Touch the spot you'd like to examine on the screen below.
+
+#ENDMSG()
+
+#STARTMSG(0xC289, 17)
+
+//=======================================
+// auto-generated string 773
+//=======================================
+
+// 大きな地球儀だ[wait]
+It's a big globe.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC2AF, 31)
+
+//=======================================
+// auto-generated string 774
+//=======================================
+
+// 机の上は乱雑に散らかっている[wait]
+The desk is covered with clutter.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC2E3, 29)
+
+//=======================================
+// auto-generated string 775
+//=======================================
+
+// 古い文字の書かれた本がある[wait]
+There are books written in an ancient language.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC315, 17)
+
+//=======================================
+// auto-generated string 776
+//=======================================
+
+// ここは研究室だ[wait]
+This is the laboratory.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC33B, 31)
+
+//=======================================
+// auto-generated string 777
+//=======================================
+
+// 色々な実験道具が置かれている[wait]
+Various pieces of scientific equipment have been left here.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC37B, 40)
+
+//=======================================
+// auto-generated string 778
+//=======================================
+
+// 下の画面の調べたい所を[br]
+// タッチして下さい
+Touch the spot you'd like to examine on the screen below.
+
+#ENDMSG()
+
+#STARTMSG(0xC428, 21)
+
+//=======================================
+// auto-generated string 779
+//=======================================
+
+// 木箱が置かれている[wait]
+A wooden crate has been left here.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC452, 21)
+
+//=======================================
+// auto-generated string 780
+//=======================================
+
+// 頑丈そうな扉がある[wait]
+There's a sturdy-looking door.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC47C, 44)
+
+//=======================================
+// auto-generated string 781
+//=======================================
+
+// 窓は固く閉じられていて[br]
+// 外の様子は見えない[wait]
+The windows have been tightly shut. It's impossible to see outside.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC4BD, 17)
+
+//=======================================
+// auto-generated string 782
+//=======================================
+
+// ここは修練場だ[wait]
+This is the training ground.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC4E3, 31)
+
+//=======================================
+// auto-generated string 783
+//=======================================
+
+// たくさんの木箱が積まれている[wait]
+A lot of crates are piled up.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC523, 40)
+
+//=======================================
+// auto-generated string 784
+//=======================================
+
+// 下の画面の調べたい所を[br]
+// タッチして下さい
+Touch the spot you'd like to examine on the screen below.
+
+#ENDMSG()
+
+#STARTMSG(0xC5FD, 29)
+
+//=======================================
+// auto-generated string 785
+//=======================================
+
+// エレベーターが浮かんでいる[wait]
+The elevator is hovering in mid-air.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC62F, 23)
+
+//=======================================
+// auto-generated string 786
+//=======================================
+
+// 団員達の部屋がみえる[wait]
+These are the entrances to other members' rooms.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC65B, 25)
+
+//=======================================
+// auto-generated string 787
+//=======================================
+
+// 下は暗くて底がみえない[wait]
+It's dark and impossible to see all the way down.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC689, 38)
+
+//=======================================
+// auto-generated string 788
+//=======================================
+
+// この場所は吹抜けに[br]
+// なっているようだ[wait]
+This place seems to be the elevator shaft.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC6D0, 40)
+
+//=======================================
+// auto-generated string 789
+//=======================================
+
+// 下の画面の調べたい所を[br]
+// タッチして下さい
+Touch the spot you'd like to examine on the screen below.
+
+#ENDMSG()
+
+#STARTMSG(0xC76E, 36)
+
+//=======================================
+// auto-generated string 790
+//=======================================
+
+// エレベーターが上空に[br]
+// 浮かんでいる[wait]
+The elevator is hovering high above.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7A7, 23)
+
+//=======================================
+// auto-generated string 791
+//=======================================
+
+// 団員達の部屋がみえる[wait]
+These are the entrances to other members' rooms.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7E0, 32)
+
+//=======================================
+// auto-generated string 792
+//=======================================
+
+// この場所は吹抜けに[br]
+// なっている[wait]
+This appears to be the bottom of the elevator shaft.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC84D, 29)
+
+//=======================================
+// auto-generated string 793
+//=======================================
+
+// 今はこのアイテムは使えない[wait]
+This item can't be used right now.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC8B9, 21)
+
+//=======================================
+// auto-generated string 794
+//=======================================
+
+// 今ここでは必要ない[wait]
+It can't be used here right now.
+[wait]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC924, 11)
+
+//=======================================
+// auto-generated string 795
+//=======================================
+
+// ………♪[wait]
+.........[note]
+[wait]
+
+
+#ENDMSG()
+
+

@@ -1,0 +1,219 @@
+
+arm9 load addr = 0x02000000
+arm7 load addr = 0x02380000
+
+font
+  * game does not use nftr -- apparently it's a custom solution.
+    helpfully, the programmer included several C files in the script directory
+    that were used to generate the font and strings.
+    see e.g. Font_Common
+  * 16x12 font encoding table (big-endian) = arm9 0x74E54 (0x618 entries?)
+    * load addr = 0x02074E54
+  * 16x12 font bitmap data = arm9 0x75A84
+    * load addr = 0x02075A84
+    * 48 bytes each
+    * 2bpp, with each glyph 16x12 pixels?
+  * routine that deals with this is at 2019bec?
+    * encoding table also referenced at 2019f7c
+    * bitmap table also referenced at 201a898
+    
+scripts
+  * script files are script/*.bin
+  * helpfully, the programmer has again left the .c files used to generate
+    the data
+  * format of a "message" op:
+    * 1b 0x3B
+    * 2b total size of op starting from the beginning of this field
+    * 1b target box ID? 01 = main screen, 02 = sub screen, ...?
+    * 2b character attribution ID
+    * 2b message string length, including terminator
+    * message string
+
+message strings:
+  * 0x0A = newline
+  * 0xfffd = ?
+  * 0xfeff = ?
+  * 0xfffc = ?
+  * 0x20 = ascii space??
+  * 0x8140 = SJIS space
+  * #XX = set color?
+          #cy = cyan?
+          #wh = white
+          #gl = ?
+  * <F>, etc. = ?
+                * <W6> = wait 6?
+  * ASCII digits 0-9 = ?
+  
+  * 0x81A5 (▼) = wait for input
+    * AFAICT this is not handled by the string printer.
+      but it has to be somehow, since this character is not printed in dialogue
+      even though it's used directly within strings.
+      a quick test shows that adding it in to menu strings, etc. results
+      in it printing as a literal.
+  
+  * 0x2000 is inserted if not found?
+
+n.b. strings printed through updatePrintStruct do _not_ like being null.
+if they are, memory gets corrupted and the game will probably crash somewhere
+completely unrelated.
+until these are filled in with the final translations, put in a placeholder:
+  arm9
+    メニューの中から選んで下さい (*2)
+  最初からゲームをはじめます
+    ゲームの途中経過を... (*2)
+    コレクション画面へ
+    サウンドテストへ (*2)
+    タイトルへ (*2)
+    現在のゲーム中の声のボ...
+    現在のゲーム中のＳＥの...
+    現在のゲーム中のＢＧＭ...
+    ゲームへ戻ります
+    
+
+237069=#pi
+23676C=#gl
+23796C=#yl
+237265=#re
+236379=#cy
+237768=#wh
+
+print struct(?):
+  +72 = pointer to output charstruct array
+        array of 28-byte output structs?
+          +20 = bitmap pointer?
+  +76 = 4b ?
+        * bit 1 = set if has content?
+  +96 = 2b output size counter?
+        * if (sp+32) false at call to createPrintStruct,
+          this is initialized to the max size? (sp+36) of the string;
+          otherwise zero.
+          incremented after each output character added?
+  +98 = 2b max input size??
+  +100 = 2b current charstruct index?
+  +102 = 2b ?
+  +104 = 2b ?
+  +106 = 2b delay (frames?) per character
+  +112 = pointer to local copy of source string?
+  +116 = 4b index of surface being targeted?
+         0000 = top screen box, 0001 = bottom screen box, ... ?
+         index into table of dst surface pointers at 20d51b8
+  +124 = 4b count of OAM subsurfaces used for string?
+  +128 = pointer to an array of 1b OAM indices indicating, in order, which
+         OAMs are assigned to the string?
+  +152 = 4b ?
+  
+  +164?? = string byte size?
+  +168? = ?
+  +172? = ?
+
+charstruct:
+  +0  = 2b absolute screen x-offset?
+  +2  = 2b absolute screen y-offset?
+  +4  = ?
+  +7  = 1b high 4 bits of palette index
+        OR with each packed pixel to get output pixel value
+  +8  = 2b character width
+  +10 = 2b character height? (ignored?)
+  +12 = 2b ?
+  +16 = 4b ?
+  +20 = pointer to packed bitmap for character
+  +24 = 4b ? indicates position within "virtual" text surface?
+           e.g. 0x00 for character 0, 0x10 for character 1, ...
+           in standard dialogue, becomes 0xC0 for start of second line, etc.?
+
+data:
+  20d51b8: table of OAM surface pointers? for printing?
+  20d7014: button state array?
+           16 bits per field?
+           +0 = buttons pressed?
+                bit 0 = ?
+                bit 1 = A
+                bit 2 = B
+                ...
+           +2 = buttons triggered?
+  21065a0 = ?
+  21065a8 = ?
+
+routines:
+  20102ac = memcpy (dst, src, size)
+  20124d8 = strlen
+  2019ff8 = copyStringForPrinting?
+            r0 = print struct
+            r1 = string pointer
+  201a1b8 = prepString?
+            all others call this?
+            writes output data as series of 28-byte structs to memory
+            pointed to by [r0, #72]?
+  
+  201a894: fontEncodingTableLookup
+           r0 = codepoint
+           returns:
+            r0 = font index corresponding to codepoint (??? if not found)
+  
+  201af8c = updatePrintStruct?
+            instant text??
+            seems to run in certain contexts where a box is cleared and replaced
+            with new text.
+            but 201ba5c is sometimes used instead?
+  201b01c = printCharacters
+  201ba5c = createPrintStruct?
+            do something and print string.
+            this is called a lot (compared to 201af8c).
+            dialogue??
+            but also initial strings on menus??
+  201b5cc = changeStringColors?
+            
+  
+  2019bec = ? font init??
+            only seems to run at boot
+  2019f60 = ? encoding table lookup?
+  
+  202bb64 = copy script string for initial prep?
+  
+  ~204b90c = track names on music player
+  ~204badc = scrolling strings on music player
+  
+  THUMB 203946c: malloc?
+                 r0 = ? often *20d6f70
+                 r1 = size
+                 r2 = ? often 4
+                 returns r0 = pointer
+
+ugggh gcc
+  sl = r10
+  fp = r11
+
+20df838
+  20df848
+20fc024
+  20fc036
+
+20d5170 = script struct??
+20d6f70 = ? int, first param of malloc?
+
+~2032bac = may print?
+           calls 201e348
+
+todo
+  "face-to-[br]-face"
+  "wonder if happened during"
+
+done
+  * will probably have to fix centering algorithm on e.g. music test
+  * disable special handling of ASCII space, digits, and anything less than
+    0x81
+  stage 4:
+    * "man who raised we" -> "man who raised me"
+  stage 4:
+    * "get out of gate" -> "get out of the gate"
+  stage 6:
+    * "if it it's the lord exorcists"
+    * dupe "so it seems" should be "Without me realising, everyone here except us is an Akuma!!"
+
+ch. 2:
+  * "Move Above Ground and search the ruined road with either character."
+    actually, must be done with partner
+  * put Allied Technique C info in main walkthrough
+ch. 3:
+  * "Search the left table at the Lab to get the coffee."
+    after this, must use timcanpy
