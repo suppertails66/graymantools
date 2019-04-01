@@ -1,0 +1,62 @@
+********************************************************************************
+*                       D.Gray-Man: Kami no Shitotachi                         *
+*                     English Translation Patch Materials                      *
+********************************************************************************
+
+This package contains the source materials (code/art/script) for the English
+translation project for the Nintendo DS game D.Gray-Man: Kami no Shitotachi.
+
+                    ****************************************
+                    *          Build Instructions          *
+                    ****************************************
+                    
+The build system is only set up for Unix-like systems, though none of the code
+is fundamentally dependent on this and could be ported with a bit of effort.
+You'll need GCC and libpng, and wine for the non-broken version of ndstool
+(see below).
+
+Get a decrypted ROM image of the original game. It should match these
+specifications:
+
+  No-Intro filename: 1005 - D.Gray-Man - Innocence no Shito-tachi (Japan).nds
+  CRC32:             9787df1f
+  MD5:               300a989cf07172bae10d2e6fa7192eb2
+  SHA-1:             bacd73ee216d6ac729be2e67e9a3a6c7c6348d3f
+
+Rename it "grayman.nds" and place it in the "grayman" folder. Then:
+
+$ cd grayman
+$ ./build.sh
+
+build.sh should then build all the necessary tools and output the translated
+ROM as grayman_en.nds.
+
+If you want to modify the project, check build.sh to see where the resources
+that get inserted into the game are coming from.
+
+NOTE: This project uses ndstool to repack the modified ROM. Due to what I
+believe is a bug related to Unix-style alphabetization, native builds of ndstool
+may produce ROM filesystems that do not function on real hardware. Because of
+this issue, the build system for this project is by default set up to use wine
+to run a Windows binary of ndstool that is known to produce correct filesystems.
+
+A submodule for ndstool has been included and the build script will build it for
+the native platform, so if you want to use the (possibly buggy) native build of
+ndstool instead of wine, uncomment the relevant line in the "Packing ROM..."
+section of build.sh and comment out the wine usage.
+
+                    ****************************************
+                    *              Licensing               *
+                    ****************************************
+
+See COPYING. Basically, everything by me (Supper) is GPLv3, and everything else
+is under the terms of whoever wrote it.
+
+                    ****************************************
+                    *               Credits                *
+                    ****************************************
+
+                              Phantom -- Translation
+                               Supper -- Hacking
+                               cccmar -- Testing
+
